@@ -24,7 +24,6 @@ function Categorybar(props) {
   });
 
   const handleSelect = (event) => {
-    console.log(event);
     setSortBy(event.target.value);
 
     dispatch({
@@ -71,8 +70,8 @@ function Categorybar(props) {
               label="sort"
               onChange={handleSelect}
             >
-              <MenuItem value={"asc"}>Asc</MenuItem>
-              <MenuItem value={"desc"}>Desc</MenuItem>
+              <MenuItem value={"asc"}>Low to High</MenuItem>
+              <MenuItem value={"desc"}>High to Low</MenuItem>
             </Select>
           </FormControl>
         </Grid>

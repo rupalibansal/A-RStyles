@@ -32,7 +32,6 @@ function Women() {
       .request(options)
       .then(function (response) {
         setwomenProducts(response.data.results);
-        // console.log(JSON.stringify(response.data));
       })
       .catch(function (error) {
         console.error(error);

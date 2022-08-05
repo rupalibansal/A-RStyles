@@ -5,10 +5,8 @@ export const initialState = {
 };
 
 export function stateReducer(state, action) {
-  console.log("cart previous state ", state);
   switch (action.type) {
     case "addToBag":
-      console.log("handing addToBag action ", action);
       if (
         state.itemsInBag.length > 0 &&
         state.itemsInBag.filter(
@@ -25,17 +23,12 @@ export function stateReducer(state, action) {
             return item;
           }
         });
-        console.log(
-          "item exists...updating quantity ",
-          itemsInBagWithUpdatedQuantity
-        );
         return {
           itemsInBag: itemsInBagWithUpdatedQuantity,
           numberOfBagItems: state.numberOfBagItems + 1,
           productsSortOrder: state.productsSortOrder,
         };
       } else {
-        console.log("adding new item to bag");
         return {
           itemsInBag: [
             ...state.itemsInBag,
@@ -54,7 +47,6 @@ export function stateReducer(state, action) {
       }
 
     case "removeFromBag":
-      console.log("handing removeFromBag action ", action);
       if (
         state.itemsInBag.length > 0 &&
         state.itemsInBag.filter(
@@ -71,10 +63,6 @@ export function stateReducer(state, action) {
             return item;
           }
         });
-        console.log(
-          "item exists...updating quantity ",
-          itemsInBagWithUpdatedQuantity
-        );
         return {
           itemsInBag: [...itemsInBagWithUpdatedQuantity],
           numberOfBagItems: state.numberOfBagItems - 1,

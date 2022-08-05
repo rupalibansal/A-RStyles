@@ -32,7 +32,6 @@ function Men() {
       .request(options)
       .then(function (response) {
         setMenProducts(response.data.results);
-        // console.log(JSON.stringify(response.data));
       })
       .catch(function (error) {
         console.error(error);

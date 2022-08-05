@@ -32,7 +32,6 @@ function Kids() {
       .request(options)
       .then(function (response) {
         setkidProducts(response.data.results);
-        // console.log(JSON.stringify(response.data));
       })
       .catch(function (error) {
         console.error(error);

@@ -10,8 +10,6 @@ function DisplayProducts(props) {
   const { state } = useContext(StateContext);
   const [sortOrder, setSortOrder] = useState("");
 
-  // console.log(props.data);
-
   useEffect(() => {
    
     setProductsToDisplay(props.data);
@@ -23,10 +21,8 @@ function DisplayProducts(props) {
 
   useEffect(() => {
     if (sortOrder) {
-      console.log("PTD", productsToDisplay);
       setProductsToDisplay([
         ...productsToDisplay.sort((a, b) => {
-          //console.log(a, b);
           return sortOrder === "asc"
             ? a.price.value - b.price.value
             : b.price.value - a.price.value;
@@ -41,9 +37,6 @@ function DisplayProducts(props) {
     <Grid container spacing={0}>
 
       {productsToDisplay.map((product, k) => {
-        {
-          /* console.log(product); */
-        }
         const dataToDisplay = {
           name: product.name,
           price: product.price.value,

@@ -45,7 +45,6 @@ function ProductDetail() {
       .then(function (response) {
         const { name, description, code, whitePrice } = response.data.product;
         const imageUrl = query.get("imageUrl");
-        console.log("Image URL ", imageUrl);
         const productDetail = {
           code,
           name,
@@ -62,7 +61,6 @@ function ProductDetail() {
   };
 
   useEffect(() => {
-    console.log("running get product details API call");
     getProductDetails();
   }, []);
 
@@ -125,7 +123,6 @@ function ProductDetail() {
                 variant="contained"
                 endIcon={<ShoppingBagIcon />}
                 onClick={() => {
-                  console.log("button clicked");
                   showSnackbar();
                   dispatch({
                     type: "addToBag",
