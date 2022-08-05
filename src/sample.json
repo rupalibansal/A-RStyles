@@ -1,0 +1,1411 @@
+{
+  "results": [
+    {
+      "code": "1058630_group_005",
+      "name": "Oversize Cotton Shirt",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "AUD",
+        "value": 34.99,
+        "priceType": "BUY",
+        "formattedValue": "$34.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/c9/e6/c9e6280534b08f22cd8a9ad4bf3ac2f069bd74f2.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9203539673089",
+      "sellingAttributes": ["New Arrival"],
+      "whitePrice": {
+        "currencyIso": "AUD",
+        "value": 34.99,
+        "priceType": "BUY",
+        "formattedValue": "$34.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1058630005",
+          "name": "Oversize Cotton Shirt",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/c9/e6/c9e6280534b08f22cd8a9ad4bf3ac2f069bd74f2.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9186938617857",
+          "sellingAttributes": ["New Arrival"],
+          "whitePrice": {
+            "currencyIso": "AUD",
+            "value": 34.99,
+            "priceType": "BUY",
+            "formattedValue": "$34.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/f9/1c/f91c8f399dbd08f6d662c3dafc95676334ac263a.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/f9/1c/f91c8f399dbd08f6d662c3dafc95676334ac263a.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA1ODYzMF9ncm91cF8wMDVfZW5fYXU7MTA1ODYzMDAwNV9lbl9hdTtPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMzs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "FFC0CB",
+            "text": "Pink",
+            "filterName": "Pink_FFC0CB",
+            "hybrisCode": "52"
+          },
+          "rgbColor": "#CE718F"
+        }
+      ],
+      "visible": false,
+      "concept": ["EVERYDAY FASHION"],
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1058630005",
+        "name": "Oversize Cotton Shirt",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/c9/e6/c9e6280534b08f22cd8a9ad4bf3ac2f069bd74f2.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9186938617857",
+        "sellingAttributes": ["New Arrival"],
+        "whitePrice": {
+          "currencyIso": "AUD",
+          "value": 34.99,
+          "priceType": "BUY",
+          "formattedValue": "$34.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/f9/1c/f91c8f399dbd08f6d662c3dafc95676334ac263a.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/f9/1c/f91c8f399dbd08f6d662c3dafc95676334ac263a.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA1ODYzMF9ncm91cF8wMDVfZW5fYXU7MTA1ODYzMDAwNV9lbl9hdTtPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMzs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "FFC0CB",
+          "text": "Pink",
+          "filterName": "Pink_FFC0CB",
+          "hybrisCode": "52"
+        },
+        "rgbColor": "#CE718F"
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 363, "filterCode": "XS" },
+        { "orderFilter": 372, "filterCode": "XL" },
+        { "orderFilter": 369, "filterCode": "M" },
+        { "orderFilter": 366, "filterCode": "S" },
+        { "orderFilter": 370, "filterCode": "L" }
+      ],
+      "swatches": [],
+      "articleCodes": ["1058630005", "1058630002", "1058630003", "1058630004"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA1ODYzMF9ncm91cF8wMDVfZW5fYXU7MTA1ODYzMDAwNV9lbl9hdTtPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMzs",
+      "searchEngineProductId": "1058630_group_005_en_au",
+      "dummy": false,
+      "linkPdp": "/en_au/productpage.1058630005.html",
+      "categoryName": "Ladies",
+      "rgbColors": ["#CE718F", "#FFFFFF", "#B7C1D9", "#3850A0"],
+      "articleColorNames": ["Pink", "White", "Light blue", "Blue/White stripe"],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 5,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "ladies_shirtsblouses_shirts",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "1028353_group_003",
+      "name": "Tie Belt Twill Coat",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "AUD",
+        "value": 119,
+        "priceType": "BUY",
+        "formattedValue": "$119.00",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/3e/98/3e98affb071fe233c48078a2ee924680b923f135.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9221247303681",
+      "sellingAttributes": ["New Arrival"],
+      "whitePrice": {
+        "currencyIso": "AUD",
+        "value": 119,
+        "priceType": "BUY",
+        "formattedValue": "$119.00",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1028353003",
+          "name": "Tie Belt Twill Coat",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/3e/98/3e98affb071fe233c48078a2ee924680b923f135.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9183116984321",
+          "sellingAttributes": ["New Arrival"],
+          "whitePrice": {
+            "currencyIso": "AUD",
+            "value": 119,
+            "priceType": "BUY",
+            "formattedValue": "$119.00",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/95/c0/95c09f99fa37b48fc0505a31495ee2d827849e7a.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/95/c0/95c09f99fa37b48fc0505a31495ee2d827849e7a.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "markers": [{ "text": "Conscious choice", "type": "ENVIRONMENT" }],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAyODM1M19ncm91cF8wMDNfZW5fYXU7MTAyODM1MzAwM19lbl9hdTtPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMzs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "008000",
+            "text": "Dark beige",
+            "filterName": "Beige_F5F5DC",
+            "hybrisCode": "19"
+          },
+          "rgbColor": "#8A816B",
+          "environmentalMarkers": ["Conscious choice"]
+        }
+      ],
+      "markers": [{ "text": "Conscious choice", "type": "ENVIRONMENT" }],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1028353003",
+        "name": "Tie Belt Twill Coat",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/3e/98/3e98affb071fe233c48078a2ee924680b923f135.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9183116984321",
+        "sellingAttributes": ["New Arrival"],
+        "whitePrice": {
+          "currencyIso": "AUD",
+          "value": 119,
+          "priceType": "BUY",
+          "formattedValue": "$119.00",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/95/c0/95c09f99fa37b48fc0505a31495ee2d827849e7a.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/95/c0/95c09f99fa37b48fc0505a31495ee2d827849e7a.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "markers": [{ "text": "Conscious choice", "type": "ENVIRONMENT" }],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAyODM1M19ncm91cF8wMDNfZW5fYXU7MTAyODM1MzAwM19lbl9hdTtPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMzs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "008000",
+          "text": "Dark beige",
+          "filterName": "Beige_F5F5DC",
+          "hybrisCode": "19"
+        },
+        "rgbColor": "#8A816B",
+        "environmentalMarkers": ["Conscious choice"]
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 372, "filterCode": "XL" },
+        { "orderFilter": 370, "filterCode": "L" },
+        { "orderFilter": 369, "filterCode": "M" }
+      ],
+      "swatches": [],
+      "articleCodes": ["1028353003", "1028353001", "1028353002"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAyODM1M19ncm91cF8wMDNfZW5fYXU7MTAyODM1MzAwM19lbl9hdTtPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMzs",
+      "searchEngineProductId": "1028353_group_003_en_au",
+      "dummy": false,
+      "linkPdp": "/en_au/productpage.1028353003.html",
+      "categoryName": "Ladies",
+      "rgbColors": ["#8A816B", "#EEEDE1", "#272628"],
+      "articleColorNames": ["Dark beige", "Cream", "Black"],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 3,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "ladies_jacketscoats_coats",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "1043913_group_008",
+      "name": "Double Breasted Jacket",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "AUD",
+        "value": 49.99,
+        "priceType": "BUY",
+        "formattedValue": "$49.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/03/d1/03d18ec930350ee47d4136f32135b5f5f661a07d.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9220727701505",
+      "sellingAttributes": ["New Arrival"],
+      "whitePrice": {
+        "currencyIso": "AUD",
+        "value": 49.99,
+        "priceType": "BUY",
+        "formattedValue": "$49.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1043913008",
+          "name": "Double Breasted Jacket",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/03/d1/03d18ec930350ee47d4136f32135b5f5f661a07d.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9179389132801",
+          "sellingAttributes": ["New Arrival"],
+          "whitePrice": {
+            "currencyIso": "AUD",
+            "value": 49.99,
+            "priceType": "BUY",
+            "formattedValue": "$49.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/95/65/95652ac92cd836a388f51260ee894d4bf2683450.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/95/65/95652ac92cd836a388f51260ee894d4bf2683450.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "markers": [{ "text": "Conscious choice", "type": "ENVIRONMENT" }],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA0MzkxM19ncm91cF8wMDhfZW5fYXU7MTA0MzkxMzAwOF9lbl9hdTtPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMzs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "FFC0CB",
+            "text": "Light pink",
+            "filterName": "Pink_FFC0CB",
+            "hybrisCode": "54"
+          },
+          "rgbColor": "#DCCAD0",
+          "environmentalMarkers": ["Conscious choice"]
+        }
+      ],
+      "markers": [{ "text": "Conscious choice", "type": "ENVIRONMENT" }],
+      "visible": false,
+      "concept": ["EVERYDAY FASHION"],
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1043913008",
+        "name": "Double Breasted Jacket",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/03/d1/03d18ec930350ee47d4136f32135b5f5f661a07d.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9179389132801",
+        "sellingAttributes": ["New Arrival"],
+        "whitePrice": {
+          "currencyIso": "AUD",
+          "value": 49.99,
+          "priceType": "BUY",
+          "formattedValue": "$49.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/95/65/95652ac92cd836a388f51260ee894d4bf2683450.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/95/65/95652ac92cd836a388f51260ee894d4bf2683450.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "markers": [{ "text": "Conscious choice", "type": "ENVIRONMENT" }],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA0MzkxM19ncm91cF8wMDhfZW5fYXU7MTA0MzkxMzAwOF9lbl9hdTtPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMzs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "FFC0CB",
+          "text": "Light pink",
+          "filterName": "Pink_FFC0CB",
+          "hybrisCode": "54"
+        },
+        "rgbColor": "#DCCAD0",
+        "environmentalMarkers": ["Conscious choice"]
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 366, "filterCode": "S" },
+        { "orderFilter": 363, "filterCode": "XS" },
+        { "orderFilter": 370, "filterCode": "L" },
+        { "orderFilter": 369, "filterCode": "M" },
+        { "orderFilter": 372, "filterCode": "XL" }
+      ],
+      "swatches": [],
+      "articleCodes": ["1043913008", "1043913006", "1043913007", "1043913011"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA0MzkxM19ncm91cF8wMDhfZW5fYXU7MTA0MzkxMzAwOF9lbl9hdTtPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMzs",
+      "searchEngineProductId": "1043913_group_008_en_au",
+      "dummy": false,
+      "linkPdp": "/en_au/productpage.1043913008.html",
+      "categoryName": "Ladies",
+      "rgbColors": ["#DCCAD0", "#B1A895", "#B3C6D8", "#C9C4BA"],
+      "articleColorNames": [
+        "Light pink",
+        "Light beige",
+        "Light blue",
+        "Light beige"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 4,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "ladies_blazers",
+      "comingSoon": false,
+      "brandName": "H&M"
+    }
+  ],
+  "pagination": {
+    "pageSize": 3,
+    "currentPage": 0,
+    "sort": "stock",
+    "numberOfPages": 3289,
+    "totalNumberOfResults": 9865,
+    "totalNumberOfResultsUnfiltered": 0
+  },
+  "facets": [
+    {
+      "code": "concepts",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "BASICS", "count": 805, "selected": false },
+        { "code": "DENIM", "count": 349, "selected": false },
+        { "code": "DIVIDED", "count": 2502, "selected": false },
+        { "code": "EVERYDAY FASHION", "count": 1830, "selected": false },
+        { "code": "H&M+", "count": 595, "selected": false },
+        { "code": "MAMA", "count": 489, "selected": false },
+        { "code": "MODERN CLASSIC", "count": 565, "selected": false },
+        { "code": "TREND", "count": 404, "selected": false }
+      ]
+    },
+    {
+      "code": "qualities",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "Premium Selection", "count": 288, "selected": false }
+      ]
+    },
+    {
+      "code": "collection",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "1_Toga Archives x H&M", "count": 2, "selected": false },
+        { "code": "2_Blackpink merch", "count": 1, "selected": false },
+        { "code": "2_Brock Collection x H&M", "count": 21, "selected": false },
+        { "code": "2_Circular Design Story", "count": 29, "selected": false },
+        { "code": "2_Conscious Exclusive", "count": 1, "selected": false },
+        {
+          "code": "2_Innovation Cherish Waste Story",
+          "count": 18,
+          "selected": false
+        },
+        {
+          "code": "2_Innovation Co-Exist Story",
+          "count": 14,
+          "selected": false
+        },
+        { "code": "2_Innovation Colour Story", "count": 3, "selected": false },
+        { "code": "2_Innovation Science Story", "count": 2, "selected": false },
+        { "code": "2_Iris Apfel x H&M", "count": 5, "selected": false },
+        { "code": "2_Netflix x H&M", "count": 3, "selected": false },
+        { "code": "2_No Fear x H&M", "count": 19, "selected": false },
+        { "code": "2_Recycled denim", "count": 2, "selected": false },
+        { "code": "2_Sandra Mansour x H&M", "count": 1, "selected": false },
+        { "code": "2_Smiley® x H&M", "count": 31, "selected": false },
+        { "code": "2_Studio Collection", "count": 44, "selected": false },
+        { "code": "2_To All The Boys x H&M", "count": 5, "selected": false },
+        { "code": "2_lemlem x H&M", "count": 11, "selected": false }
+      ]
+    },
+    {
+      "code": "functions",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "Breathable", "count": 4, "selected": false },
+        { "code": "Quick dry", "count": 374, "selected": false },
+        { "code": "Reflective details", "count": 2, "selected": false },
+        { "code": "Thermal", "count": 3, "selected": false },
+        { "code": "Water repellent", "count": 17, "selected": false },
+        { "code": "Waterproof", "count": 1, "selected": false },
+        { "code": "Windproof", "count": 10, "selected": false }
+      ]
+    },
+    {
+      "code": "colors",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "beige", "count": 1611, "selected": false },
+        { "code": "black", "count": 2865, "selected": false },
+        { "code": "blue", "count": 1302, "selected": false },
+        { "code": "brown", "count": 329, "selected": false },
+        { "code": "gold", "count": 112, "selected": false },
+        { "code": "green", "count": 622, "selected": false },
+        { "code": "grey", "count": 1005, "selected": false },
+        { "code": "multi", "count": 1634, "selected": false },
+        { "code": "orange", "count": 173, "selected": false },
+        { "code": "pink", "count": 510, "selected": false },
+        { "code": "purple", "count": 274, "selected": false },
+        { "code": "red", "count": 136, "selected": false },
+        { "code": "silver", "count": 48, "selected": false },
+        { "code": "transparent", "count": 3, "selected": false },
+        { "code": "turquoise", "count": 101, "selected": false },
+        { "code": "white", "count": 1450, "selected": false },
+        { "code": "yellow", "count": 237, "selected": false }
+      ]
+    },
+    {
+      "code": "fits",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "Fitted", "count": 831, "selected": false },
+        { "code": "Loose fit", "count": 328, "selected": false },
+        { "code": "Oversized", "count": 425, "selected": false },
+        { "code": "Regular fit", "count": 163, "selected": false },
+        { "code": "Relaxed fit", "count": 24, "selected": false },
+        { "code": "Skinny fit", "count": 141, "selected": false },
+        { "code": "Slim fit", "count": 173, "selected": false },
+        { "code": "Super skinny fit", "count": 62, "selected": false }
+      ]
+    },
+    {
+      "code": "contexts",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "Beach", "count": 442, "selected": false },
+        { "code": "Casual", "count": 6359, "selected": false },
+        { "code": "Costume party", "count": 1, "selected": false },
+        { "code": "Formal", "count": 85, "selected": false },
+        { "code": "Lounge", "count": 166, "selected": false },
+        { "code": "Office wear", "count": 114, "selected": false },
+        { "code": "Party", "count": 191, "selected": false },
+        { "code": "Sport", "count": 533, "selected": false }
+      ]
+    },
+    {
+      "code": "productTypes",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "Alice band", "count": 9, "selected": false },
+        { "code": "All-in-one suit", "count": 1, "selected": false },
+        { "code": "Bag", "count": 84, "selected": false },
+        { "code": "Beanie", "count": 5, "selected": false },
+        { "code": "Belly band", "count": 3, "selected": false },
+        { "code": "Belt", "count": 40, "selected": false },
+        { "code": "Beret", "count": 2, "selected": false },
+        { "code": "Bikini bottoms", "count": 177, "selected": false },
+        { "code": "Bikini top", "count": 188, "selected": false },
+        { "code": "Blazer", "count": 114, "selected": false },
+        { "code": "Blouse", "count": 217, "selected": false },
+        { "code": "Body", "count": 53, "selected": false },
+        { "code": "Body jewellery", "count": 1, "selected": false },
+        { "code": "Boiler suit", "count": 2, "selected": false },
+        { "code": "Bolero", "count": 3, "selected": false },
+        { "code": "Bra", "count": 419, "selected": false },
+        { "code": "Bra accessories", "count": 1, "selected": false },
+        { "code": "Bracelet", "count": 19, "selected": false },
+        { "code": "Bustier", "count": 2, "selected": false },
+        { "code": "Caftan", "count": 17, "selected": false },
+        { "code": "Cap", "count": 23, "selected": false },
+        { "code": "Card holder", "count": 2, "selected": false },
+        { "code": "Cardigan", "count": 154, "selected": false },
+        { "code": "Changing pad", "count": 1, "selected": false },
+        { "code": "Clothing tape", "count": 1, "selected": false },
+        { "code": "Coat", "count": 50, "selected": false },
+        { "code": "Collar", "count": 3, "selected": false },
+        { "code": "Costume", "count": 1, "selected": false },
+        { "code": "Cuff weight", "count": 1, "selected": false },
+        { "code": "Dog accessories", "count": 3, "selected": false },
+        { "code": "Dogwear", "count": 6, "selected": false },
+        { "code": "Dress", "count": 1607, "selected": false },
+        { "code": "Dressing gown", "count": 8, "selected": false },
+        { "code": "Earrings", "count": 30, "selected": false },
+        { "code": "Fabric comb", "count": 1, "selected": false },
+        { "code": "Fashion scarf", "count": 5, "selected": false },
+        { "code": "Foam roller", "count": 1, "selected": false },
+        { "code": "Foot jewellery", "count": 3, "selected": false },
+        { "code": "Gaiters", "count": 1, "selected": false },
+        { "code": "Gilet", "count": 44, "selected": false },
+        { "code": "Gloves", "count": 1, "selected": false },
+        { "code": "Hair claw", "count": 12, "selected": false },
+        { "code": "Hair clips", "count": 2, "selected": false },
+        { "code": "Hair elastic", "count": 6, "selected": false },
+        { "code": "Hairband", "count": 3, "selected": false },
+        { "code": "Harness belt", "count": 1, "selected": false },
+        { "code": "Hat", "count": 34, "selected": false },
+        { "code": "Headband", "count": 1, "selected": false },
+        { "code": "Hemming tape", "count": 1, "selected": false },
+        { "code": "Jacket", "count": 270, "selected": false },
+        { "code": "Jeans", "count": 559, "selected": false },
+        { "code": "Jumper", "count": 172, "selected": false },
+        { "code": "Jumpsuit", "count": 67, "selected": false },
+        { "code": "Keyring", "count": 1, "selected": false },
+        { "code": "Knickers", "count": 348, "selected": false },
+        { "code": "Laptop case", "count": 4, "selected": false },
+        { "code": "Laundry bag", "count": 1, "selected": false },
+        { "code": "Leggings", "count": 451, "selected": false },
+        { "code": "Mittens", "count": 1, "selected": false },
+        { "code": "Necklace", "count": 45, "selected": false },
+        { "code": "Nightdress", "count": 7, "selected": false },
+        { "code": "Nightshirt", "count": 5, "selected": false },
+        { "code": "Patch", "count": 7, "selected": false },
+        { "code": "Phone jewellery", "count": 3, "selected": false },
+        { "code": "Playsuit", "count": 43, "selected": false },
+        { "code": "Poncho", "count": 4, "selected": false },
+        { "code": "Pregnancy pillow", "count": 1, "selected": false },
+        { "code": "Pyjamas", "count": 93, "selected": false },
+        { "code": "Resistance band", "count": 7, "selected": false },
+        { "code": "Ring", "count": 35, "selected": false },
+        { "code": "Sarong", "count": 1, "selected": false },
+        { "code": "Scarf", "count": 1, "selected": false },
+        { "code": "Shirt", "count": 294, "selected": false },
+        { "code": "Shoes", "count": 293, "selected": false },
+        { "code": "Shorts", "count": 589, "selected": false },
+        { "code": "Skipping rope", "count": 1, "selected": false },
+        { "code": "Skirt", "count": 339, "selected": false },
+        { "code": "Slippers", "count": 8, "selected": false },
+        { "code": "Smartphone case", "count": 7, "selected": false },
+        { "code": "Socks", "count": 44, "selected": false },
+        { "code": "Sun shield", "count": 1, "selected": false },
+        { "code": "Sweatshirt", "count": 454, "selected": false },
+        { "code": "Swim top", "count": 1, "selected": false },
+        { "code": "Swimsuit", "count": 59, "selected": false },
+        { "code": "T-shirt", "count": 288, "selected": false },
+        { "code": "Tights", "count": 48, "selected": false },
+        { "code": "Top", "count": 1123, "selected": false },
+        { "code": "Trousers", "count": 795, "selected": false },
+        { "code": "Tunic", "count": 22, "selected": false },
+        { "code": "Umbrella", "count": 1, "selected": false },
+        { "code": "Waistcoat", "count": 5, "selected": false },
+        { "code": "Wallet", "count": 3, "selected": false },
+        { "code": "Water bottle", "count": 2, "selected": false },
+        { "code": "Wipes case", "count": 1, "selected": false },
+        { "code": "iPad case", "count": 3, "selected": false }
+      ]
+    },
+    {
+      "code": "productGroups",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "Babygear", "count": 1, "selected": false },
+        { "code": "Bags", "count": 89, "selected": false },
+        { "code": "Clothingaccessories", "count": 53, "selected": false },
+        { "code": "Functionalwear", "count": 402, "selected": false },
+        { "code": "Garmentcare", "count": 10, "selected": false },
+        { "code": "Hairaccessories", "count": 32, "selected": false },
+        { "code": "Headwear", "count": 66, "selected": false },
+        { "code": "Jewellery", "count": 139, "selected": false },
+        { "code": "Loungewear", "count": 177, "selected": false },
+        { "code": "Nightwear", "count": 118, "selected": false },
+        { "code": "Nursing", "count": 86, "selected": false },
+        { "code": "Outerwear", "count": 364, "selected": false },
+        { "code": "Petaccessories", "count": 9, "selected": false },
+        { "code": "Pregnancy", "count": 460, "selected": false },
+        { "code": "Rainwear", "count": 1, "selected": false },
+        { "code": "Sportaccessories", "count": 24, "selected": false },
+        { "code": "Sportswear", "count": 494, "selected": false },
+        { "code": "Swimwear", "count": 426, "selected": false },
+        { "code": "Techaccessories", "count": 17, "selected": false },
+        { "code": "Textiles", "count": 1, "selected": false },
+        { "code": "Underwear", "count": 819, "selected": false }
+      ]
+    },
+    {
+      "code": "ageGroups",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "adult", "count": 9855, "selected": false },
+        { "code": "newborn", "count": 4, "selected": false },
+        { "code": "younger child", "count": 2, "selected": false }
+      ]
+    },
+    {
+      "code": "customerGroups",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "Boy", "count": 3, "selected": false },
+        { "code": "Girl", "count": 3, "selected": false },
+        { "code": "Man", "count": 15, "selected": false },
+        { "code": "Woman", "count": 9855, "selected": false }
+      ]
+    },
+    {
+      "code": "assortmentTypes",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "accessories", "count": 417, "selected": false },
+        { "code": "clothing", "count": 9133, "selected": false },
+        { "code": "footwear", "count": 301, "selected": false },
+        { "code": "homeware", "count": 13, "selected": false }
+      ]
+    },
+    {
+      "code": "sizes",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "1012_50x50_1_womenswear", "count": 1, "selected": false },
+        { "code": "101_36_5_waist", "count": 1, "selected": false },
+        { "code": "101_36_6_footwear", "count": 162, "selected": false },
+        { "code": "1033_55x55_1_womenswear", "count": 1, "selected": false },
+        { "code": "104_37_6_footwear", "count": 170, "selected": false },
+        { "code": "106_38_6_footwear", "count": 190, "selected": false },
+        { "code": "108_39_6_footwear", "count": 200, "selected": false },
+        { "code": "111_40_6_footwear", "count": 172, "selected": false },
+        { "code": "1144_100x100_1_womenswear", "count": 1, "selected": false },
+        { "code": "114_41_6_footwear", "count": 142, "selected": false },
+        { "code": "117_42_6_footwear", "count": 107, "selected": false },
+        { "code": "146_56_1_womenswear", "count": 41, "selected": false },
+        { "code": "148_58_1_womenswear", "count": 43, "selected": false },
+        { "code": "1506_30/30_5_waist", "count": 1, "selected": false },
+        { "code": "1538_36/34_5_waist", "count": 2, "selected": false },
+        { "code": "15_4_1_womenswear", "count": 883, "selected": false },
+        { "code": "2187_s/54_1_womenswear", "count": 19, "selected": false },
+        { "code": "2193_m/56_1_womenswear", "count": 19, "selected": false },
+        { "code": "2197_l/58_1_womenswear", "count": 19, "selected": false },
+        { "code": "21_6_1_womenswear", "count": 1051, "selected": false },
+        { "code": "27_8_1_womenswear", "count": 1041, "selected": false },
+        { "code": "2898_10b_2_bras", "count": 72, "selected": false },
+        { "code": "2899_12b_2_bras", "count": 145, "selected": false },
+        { "code": "2900_14b_2_bras", "count": 184, "selected": false },
+        { "code": "2901_16b_2_bras", "count": 187, "selected": false },
+        { "code": "2905_10c_2_bras", "count": 79, "selected": false },
+        { "code": "2906_12c_2_bras", "count": 127, "selected": false },
+        { "code": "2907_14c_2_bras", "count": 157, "selected": false },
+        { "code": "2908_16c_2_bras", "count": 170, "selected": false },
+        { "code": "2909_18c_2_bras", "count": 8, "selected": false },
+        { "code": "2913_12d_2_bras", "count": 121, "selected": false },
+        { "code": "2914_14d_2_bras", "count": 108, "selected": false },
+        { "code": "2915_16d_2_bras", "count": 118, "selected": false },
+        { "code": "2916_18d_2_bras", "count": 15, "selected": false },
+        { "code": "2917_20d_2_bras", "count": 18, "selected": false },
+        { "code": "2923_12e_2_bras", "count": 29, "selected": false },
+        { "code": "2924_14e_2_bras", "count": 23, "selected": false },
+        { "code": "2925_16e_2_bras", "count": 24, "selected": false },
+        { "code": "2926_18e_2_bras", "count": 8, "selected": false },
+        { "code": "2932_12f_2_bras", "count": 21, "selected": false },
+        { "code": "2933_14f_2_bras", "count": 15, "selected": false },
+        { "code": "2934_16f_2_bras", "count": 17, "selected": false },
+        { "code": "31_10_1_womenswear", "count": 962, "selected": false },
+        { "code": "324_4p_1_womenswear", "count": 6, "selected": false },
+        { "code": "325_6p_1_womenswear", "count": 4, "selected": false },
+        { "code": "326_8p_1_womenswear", "count": 6, "selected": false },
+        { "code": "327_10p_1_womenswear", "count": 3, "selected": false },
+        { "code": "328_12p_1_womenswear", "count": 2, "selected": false },
+        { "code": "329_14p_1_womenswear", "count": 2, "selected": false },
+        { "code": "330_16p_1_womenswear", "count": 3, "selected": false },
+        { "code": "331_18p_1_womenswear", "count": 3, "selected": false },
+        { "code": "357_xxs_1_womenswear", "count": 645, "selected": false },
+        { "code": "35_12_1_womenswear", "count": 834, "selected": false },
+        { "code": "363_xs_1_womenswear", "count": 3866, "selected": false },
+        { "code": "366_s_1_womenswear", "count": 4277, "selected": false },
+        { "code": "369_m_1_womenswear", "count": 4302, "selected": false },
+        { "code": "370_l_1_womenswear", "count": 4549, "selected": false },
+        { "code": "372_xl_1_womenswear", "count": 4167, "selected": false },
+        { "code": "375_xxl_1_womenswear", "count": 728, "selected": false },
+        { "code": "376_2xl_1_womenswear", "count": 93, "selected": false },
+        { "code": "381_3xl_1_womenswear", "count": 350, "selected": false },
+        { "code": "384_4xl_1_womenswear", "count": 264, "selected": false },
+        { "code": "390_xs/p_1_womenswear", "count": 1, "selected": false },
+        { "code": "391_s/p_1_womenswear", "count": 1, "selected": false },
+        { "code": "392_m/p_1_womenswear", "count": 1, "selected": false },
+        { "code": "393_l/p_1_womenswear", "count": 1, "selected": false },
+        { "code": "394_xl/p_1_womenswear", "count": 1, "selected": false },
+        { "code": "39_14_1_womenswear", "count": 891, "selected": false },
+        { "code": "434_xs/s_1_womenswear", "count": 42, "selected": false },
+        { "code": "45_16_1_womenswear", "count": 1023, "selected": false },
+        { "code": "482_m/l_1_womenswear", "count": 44, "selected": false },
+        { "code": "50_18_1_womenswear", "count": 1060, "selected": false },
+        { "code": "54_20_1_womenswear", "count": 489, "selected": false },
+        { "code": "578_70f_2_bras", "count": 15, "selected": false },
+        { "code": "59_22_1_womenswear", "count": 395, "selected": false },
+        { "code": "651_8a_2_bras", "count": 8, "selected": false },
+        { "code": "653_8b_2_bras", "count": 12, "selected": false },
+        { "code": "655_8c_2_bras", "count": 12, "selected": false },
+        { "code": "65_24_1_womenswear", "count": 52, "selected": false },
+        { "code": "675_10a_2_bras", "count": 51, "selected": false },
+        { "code": "679_10d_2_bras", "count": 76, "selected": false },
+        { "code": "681_10e_2_bras", "count": 16, "selected": false },
+        { "code": "70_26_1_womenswear", "count": 50, "selected": false },
+        { "code": "711_12a_2_bras", "count": 138, "selected": false },
+        { "code": "713_14a_2_bras", "count": 132, "selected": false },
+        { "code": "97_35_6_footwear", "count": 76, "selected": false }
+      ]
+    },
+    {
+      "code": "sale",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "false", "count": 7869, "selected": false },
+        { "code": "true", "count": 1996, "selected": false }
+      ]
+    },
+    {
+      "code": "colorWithNames",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "beige_f5f5dc", "count": 1611, "selected": false },
+        { "code": "black_000000", "count": 2865, "selected": false },
+        { "code": "blue_0000ff", "count": 1302, "selected": false },
+        { "code": "brown_a52a2a", "count": 329, "selected": false },
+        { "code": "gold_ffd700", "count": 112, "selected": false },
+        { "code": "green_008000", "count": 622, "selected": false },
+        { "code": "grey_808080", "count": 1005, "selected": false },
+        { "code": "multi_000000", "count": 1634, "selected": false },
+        { "code": "orange_ffa500", "count": 173, "selected": false },
+        { "code": "pink_ffc0cb", "count": 510, "selected": false },
+        { "code": "purple_800080", "count": 274, "selected": false },
+        { "code": "red_ff0000", "count": 136, "selected": false },
+        { "code": "silver_c0c0c0", "count": 48, "selected": false },
+        { "code": "transparent_ffffff", "count": 3, "selected": false },
+        { "code": "turquoise_40e0d0", "count": 101, "selected": false },
+        { "code": "white_ffffff", "count": 1450, "selected": false },
+        { "code": "yellow_ffff00", "count": 237, "selected": false }
+      ]
+    },
+    {
+      "code": "brandNames",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [{ "code": "H&M", "count": 9865, "selected": false }]
+    },
+    {
+      "code": "clothingStyles",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "A-line", "count": 145, "selected": false },
+        { "code": "Ankle socks", "count": 19, "selected": false },
+        { "code": "Anorak", "count": 9, "selected": false },
+        { "code": "Babydoll", "count": 15, "selected": false },
+        { "code": "Balconette bra", "count": 33, "selected": false },
+        { "code": "Balloon leg", "count": 9, "selected": false },
+        { "code": "Bandeau", "count": 28, "selected": false },
+        { "code": "Baseball jacket", "count": 13, "selected": false },
+        { "code": "Bermuda shorts", "count": 40, "selected": false },
+        { "code": "Bike shorts", "count": 65, "selected": false },
+        { "code": "Biker", "count": 17, "selected": false },
+        { "code": "Bikini", "count": 22, "selected": false },
+        { "code": "Blazer", "count": 79, "selected": false },
+        { "code": "Blazer dress", "count": 13, "selected": false },
+        { "code": "Bodycon", "count": 90, "selected": false },
+        { "code": "Bomber jacket", "count": 1, "selected": false },
+        { "code": "Bootcut", "count": 20, "selected": false },
+        { "code": "Boxers", "count": 2, "selected": false },
+        { "code": "Boyfriend", "count": 8, "selected": false },
+        { "code": "Bralette", "count": 58, "selected": false },
+        { "code": "Brazilian", "count": 136, "selected": false },
+        { "code": "Cami", "count": 125, "selected": false },
+        { "code": "Cape dress", "count": 1, "selected": false },
+        { "code": "Capri pants", "count": 6, "selected": false },
+        { "code": "Cargo", "count": 47, "selected": false },
+        { "code": "Chinos", "count": 12, "selected": false },
+        { "code": "Cigarette pants", "count": 28, "selected": false },
+        { "code": "Circular", "count": 16, "selected": false },
+        { "code": "Cold shoulder", "count": 4, "selected": false },
+        { "code": "Corset dress", "count": 2, "selected": false },
+        { "code": "Corset top", "count": 3, "selected": false },
+        { "code": "Crop top", "count": 419, "selected": false },
+        { "code": "Culottes", "count": 5, "selected": false },
+        { "code": "Cut out", "count": 116, "selected": false },
+        { "code": "Draped", "count": 70, "selected": false },
+        { "code": "Dungaree dress", "count": 10, "selected": false },
+        { "code": "Dungaree shorts", "count": 2, "selected": false },
+        { "code": "Dungarees", "count": 11, "selected": false },
+        { "code": "Flared", "count": 132, "selected": false },
+        { "code": "Flared leggings", "count": 21, "selected": false },
+        { "code": "G-string", "count": 108, "selected": false },
+        { "code": "Girlfriend", "count": 2, "selected": false },
+        { "code": "Henley shirt", "count": 6, "selected": false },
+        { "code": "High Leg", "count": 41, "selected": false },
+        { "code": "Hipster", "count": 74, "selected": false },
+        { "code": "Hoodie", "count": 128, "selected": false },
+        { "code": "Jeggings", "count": 67, "selected": false },
+        { "code": "Joggers", "count": 159, "selected": false },
+        { "code": "Jumper dress", "count": 24, "selected": false },
+        { "code": "Keyhole", "count": 93, "selected": false },
+        { "code": "Knit vest", "count": 61, "selected": false },
+        { "code": "Mom", "count": 130, "selected": false },
+        { "code": "Non padded bra", "count": 1, "selected": false },
+        { "code": "Non wired bra", "count": 201, "selected": false },
+        { "code": "Off the shoulder", "count": 35, "selected": false },
+        { "code": "One shoulder", "count": 27, "selected": false },
+        { "code": "Open back", "count": 61, "selected": false },
+        { "code": "Overshirt", "count": 15, "selected": false },
+        { "code": "Padded bra", "count": 248, "selected": false },
+        { "code": "Paper bag", "count": 41, "selected": false },
+        { "code": "Parka", "count": 7, "selected": false },
+        { "code": "Pea coat", "count": 1, "selected": false },
+        { "code": "Pencil dress", "count": 6, "selected": false },
+        { "code": "Pencil skirt", "count": 12, "selected": false },
+        { "code": "Peplum", "count": 17, "selected": false },
+        { "code": "Pinafore", "count": 4, "selected": false },
+        { "code": "Plunge back", "count": 78, "selected": false },
+        { "code": "Polo shirt", "count": 2, "selected": false },
+        { "code": "Puffer", "count": 13, "selected": false },
+        { "code": "Pull on trousers", "count": 68, "selected": false },
+        { "code": "Push up bra", "count": 112, "selected": false },
+        { "code": "Racer back", "count": 88, "selected": false },
+        { "code": "Rugby shirt", "count": 6, "selected": false },
+        { "code": "Shirt dress", "count": 170, "selected": false },
+        { "code": "Shirt jacket", "count": 91, "selected": false },
+        { "code": "Short tights", "count": 19, "selected": false },
+        { "code": "Shortie", "count": 31, "selected": false },
+        { "code": "Skater", "count": 10, "selected": false },
+        { "code": "Skort", "count": 7, "selected": false },
+        { "code": "Slip dress", "count": 17, "selected": false },
+        { "code": "Slip skirt", "count": 7, "selected": false },
+        { "code": "Slit", "count": 476, "selected": false },
+        { "code": "Smocking", "count": 213, "selected": false },
+        { "code": "Sneaker socks", "count": 6, "selected": false },
+        { "code": "Soft bra", "count": 70, "selected": false },
+        { "code": "Sports bra", "count": 86, "selected": false },
+        { "code": "Straight leg", "count": 465, "selected": false },
+        { "code": "Strapless", "count": 6, "selected": false },
+        { "code": "Strapless bra", "count": 17, "selected": false },
+        { "code": "Strappy dress", "count": 117, "selected": false },
+        { "code": "Suit pants", "count": 14, "selected": false },
+        { "code": "Super push up bra", "count": 45, "selected": false },
+        { "code": "Sweat", "count": 183, "selected": false },
+        { "code": "Sweat shorts", "count": 73, "selected": false },
+        { "code": "Sweatpants", "count": 23, "selected": false },
+        { "code": "T-shirt dress", "count": 59, "selected": false },
+        { "code": "Tank", "count": 147, "selected": false },
+        { "code": "Tapered", "count": 269, "selected": false },
+        { "code": "Trashed", "count": 49, "selected": false },
+        { "code": "Treggings", "count": 11, "selected": false },
+        { "code": "Trenchcoat", "count": 11, "selected": false },
+        { "code": "Triangle bra", "count": 32, "selected": false },
+        { "code": "Trucker jacket", "count": 30, "selected": false },
+        { "code": "Tube top", "count": 10, "selected": false },
+        { "code": "Underwire bra", "count": 134, "selected": false },
+        { "code": "Unitard", "count": 7, "selected": false },
+        { "code": "Wide", "count": 423, "selected": false },
+        { "code": "Wrapover", "count": 157, "selected": false },
+        { "code": "Zip up hoodie", "count": 76, "selected": false }
+      ]
+    },
+    {
+      "code": "accessoriesStyles",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "Backpack", "count": 6, "selected": false },
+        { "code": "Baseball cap", "count": 12, "selected": false },
+        { "code": "Beach bag", "count": 1, "selected": false },
+        { "code": "Bucket Hat", "count": 28, "selected": false },
+        { "code": "Bum bag", "count": 2, "selected": false },
+        { "code": "Chain bracelet", "count": 8, "selected": false },
+        { "code": "Chain necklace", "count": 4, "selected": false },
+        { "code": "Charm bracelet", "count": 3, "selected": false },
+        { "code": "Clutch bag", "count": 1, "selected": false },
+        { "code": "Cross body bag", "count": 8, "selected": false },
+        { "code": "Crossbody camera bag", "count": 1, "selected": false },
+        { "code": "Cuff bracelet", "count": 3, "selected": false },
+        { "code": "Drop earrings", "count": 2, "selected": false },
+        { "code": "Ear cuff", "count": 6, "selected": false },
+        { "code": "Fedora Hat", "count": 2, "selected": false },
+        { "code": "Handbag", "count": 7, "selected": false },
+        { "code": "Hoop earrings", "count": 17, "selected": false },
+        { "code": "Laptop bag", "count": 1, "selected": false },
+        { "code": "Layered necklace", "count": 29, "selected": false },
+        { "code": "Pendant necklace", "count": 17, "selected": false },
+        { "code": "Pouch", "count": 2, "selected": false },
+        { "code": "Pram mittens", "count": 1, "selected": false },
+        { "code": "Rope belt", "count": 2, "selected": false },
+        { "code": "Scrunchie", "count": 6, "selected": false },
+        { "code": "Shopper", "count": 29, "selected": false },
+        { "code": "Shoulder bag", "count": 25, "selected": false },
+        { "code": "Sports bag", "count": 1, "selected": false },
+        { "code": "Stud earrings", "count": 3, "selected": false },
+        { "code": "Sun Hat", "count": 1, "selected": false },
+        { "code": "Tennis bracelet", "count": 6, "selected": false },
+        { "code": "Trucker cap", "count": 1, "selected": false },
+        { "code": "Tube scarf", "count": 1, "selected": false },
+        { "code": "Weekend bag", "count": 3, "selected": false }
+      ]
+    },
+    {
+      "code": "necklineStyles",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "Boat neck", "count": 29, "selected": false },
+        { "code": "Crew neck", "count": 36, "selected": false },
+        { "code": "Deep neckline", "count": 349, "selected": false },
+        { "code": "Halter neck", "count": 64, "selected": false },
+        { "code": "Polo neck", "count": 57, "selected": false },
+        { "code": "Round neck", "count": 1452, "selected": false },
+        { "code": "Square neckline", "count": 250, "selected": false },
+        { "code": "Sweetheart neckline", "count": 108, "selected": false },
+        { "code": "Turtleneck", "count": 11, "selected": false },
+        { "code": "V-neck", "count": 874, "selected": false },
+        { "code": "Wide neckline", "count": 5, "selected": false }
+      ]
+    },
+    {
+      "code": "collarStyles",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "Band collar", "count": 1, "selected": false },
+        { "code": "Button down collar", "count": 4, "selected": false },
+        { "code": "Cut away collar", "count": 1, "selected": false },
+        { "code": "Frilled collar", "count": 52, "selected": false },
+        { "code": "Grandad collar", "count": 9, "selected": false },
+        { "code": "Henley collar", "count": 6, "selected": false },
+        { "code": "High collar", "count": 47, "selected": false },
+        { "code": "Johnny collar", "count": 18, "selected": false },
+        { "code": "Peter Pan collar", "count": 2, "selected": false },
+        { "code": "Resort collar", "count": 36, "selected": false },
+        { "code": "Shawl collar", "count": 3, "selected": false },
+        { "code": "Stand up collar", "count": 253, "selected": false },
+        { "code": "Turn down collar", "count": 579, "selected": false }
+      ]
+    },
+    {
+      "code": "footwearStyles",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "Ankle boots", "count": 7, "selected": false },
+        { "code": "Ballet flats", "count": 5, "selected": false },
+        { "code": "Boots", "count": 36, "selected": false },
+        { "code": "Chelsea boots", "count": 12, "selected": false },
+        { "code": "Clogs", "count": 1, "selected": false },
+        { "code": "Combat boots", "count": 10, "selected": false },
+        { "code": "Espadrilles", "count": 28, "selected": false },
+        { "code": "Flatform", "count": 9, "selected": false },
+        { "code": "Flats", "count": 2, "selected": false },
+        { "code": "Heeled ankle boots", "count": 2, "selected": false },
+        { "code": "Heeled sandals", "count": 64, "selected": false },
+        { "code": "High heels", "count": 4, "selected": false },
+        { "code": "Loafers", "count": 3, "selected": false },
+        { "code": "Mules", "count": 51, "selected": false },
+        { "code": "Platform", "count": 20, "selected": false },
+        { "code": "Rope sandals", "count": 3, "selected": false },
+        { "code": "Sandals", "count": 62, "selected": false },
+        { "code": "Slides", "count": 3, "selected": false },
+        { "code": "Slingbacks", "count": 2, "selected": false },
+        { "code": "Slip-on", "count": 4, "selected": false },
+        { "code": "Sneaker boots", "count": 2, "selected": false },
+        { "code": "Sneakers", "count": 49, "selected": false },
+        { "code": "Strappy sandals", "count": 17, "selected": false },
+        { "code": "Thongs", "count": 1, "selected": false },
+        { "code": "Wedges", "count": 5, "selected": false }
+      ]
+    },
+    {
+      "code": "sleeveStyles",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "Balloon sleeve", "count": 97, "selected": false },
+        { "code": "Batwing sleeve", "count": 7, "selected": false },
+        { "code": "Butterfly sleeve", "count": 9, "selected": false },
+        { "code": "Cap sleeve", "count": 33, "selected": false },
+        { "code": "Dolman sleeve", "count": 4, "selected": false },
+        { "code": "Flutter sleeve", "count": 14, "selected": false },
+        { "code": "Puff sleeve", "count": 212, "selected": false },
+        { "code": "Raglan sleeve", "count": 194, "selected": false },
+        { "code": "Trumpet sleeve", "count": 4, "selected": false }
+      ]
+    },
+    {
+      "code": "garmentLengths",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "3/4 length", "count": 36, "selected": false },
+        { "code": "Ankle length", "count": 589, "selected": false },
+        { "code": "Cropped", "count": 510, "selected": false },
+        { "code": "Extra long legs", "count": 17, "selected": false },
+        { "code": "Knee length", "count": 122, "selected": false },
+        { "code": "Long", "count": 1594, "selected": false },
+        { "code": "Maxi", "count": 13, "selected": false },
+        { "code": "Midi", "count": 916, "selected": false },
+        { "code": "Mini", "count": 107, "selected": false },
+        { "code": "Regular length", "count": 1499, "selected": false },
+        { "code": "Short", "count": 2279, "selected": false }
+      ]
+    },
+    {
+      "code": "sleeveLengths",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "3/4 sleeve", "count": 96, "selected": false },
+        { "code": "Extra long sleeve", "count": 95, "selected": false },
+        { "code": "Long sleeve", "count": 2296, "selected": false },
+        { "code": "Short sleeve", "count": 1105, "selected": false },
+        { "code": "Sleeveless", "count": 1575, "selected": false }
+      ]
+    },
+    {
+      "code": "heelHeights",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "High heel", "count": 95, "selected": false },
+        { "code": "Low heel", "count": 47, "selected": false },
+        { "code": "No heel", "count": 155, "selected": false }
+      ]
+    },
+    {
+      "code": "waistRises",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "High waist", "count": 2107, "selected": false },
+        { "code": "Low waist", "count": 169, "selected": false },
+        { "code": "Regular waist", "count": 905, "selected": false },
+        { "code": "Ultra high waist", "count": 47, "selected": false }
+      ]
+    },
+    {
+      "code": "patterns",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "argyle-patterned", "count": 10, "selected": false },
+        { "code": "block-coloured", "count": 57, "selected": false },
+        { "code": "checked", "count": 211, "selected": false },
+        { "code": "crocodile-patterned", "count": 10, "selected": false },
+        { "code": "dogtooth-patterned", "count": 12, "selected": false },
+        { "code": "floral", "count": 407, "selected": false },
+        { "code": "herringbone-patterned", "count": 1, "selected": false },
+        { "code": "leopard-print", "count": 85, "selected": false },
+        { "code": "marbled", "count": 1, "selected": false },
+        { "code": "patterned", "count": 286, "selected": false },
+        { "code": "pinstriped", "count": 10, "selected": false },
+        { "code": "snakeskin-patterned", "count": 10, "selected": false },
+        { "code": "solid colour", "count": 7822, "selected": false },
+        { "code": "spotted", "count": 64, "selected": false },
+        { "code": "striped", "count": 170, "selected": false },
+        { "code": "tiger-striped", "count": 2, "selected": false },
+        { "code": "tortoiseshell-patterned", "count": 1, "selected": false },
+        { "code": "zebra-print", "count": 10, "selected": false }
+      ]
+    },
+    {
+      "code": "occasions",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "4th of july", "count": 1, "selected": false },
+        { "code": "carnival", "count": 1, "selected": false },
+        { "code": "chinese new year", "count": 3, "selected": false },
+        { "code": "christmas", "count": 4, "selected": false },
+        { "code": "halloween", "count": 1, "selected": false },
+        { "code": "new year's eve", "count": 25, "selected": false },
+        { "code": "valentine's day", "count": 7, "selected": false }
+      ]
+    },
+    {
+      "code": "trendings",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "animal print", "count": 124, "selected": false },
+        { "code": "bohemian", "count": 57, "selected": false },
+        { "code": "chunky", "count": 53, "selected": false },
+        { "code": "crocheted", "count": 9, "selected": false },
+        { "code": "embroidered", "count": 109, "selected": false },
+        { "code": "fake fur", "count": 18, "selected": false },
+        { "code": "fishnet", "count": 2, "selected": false },
+        { "code": "floral", "count": 407, "selected": false },
+        { "code": "frill", "count": 234, "selected": false },
+        { "code": "fringes", "count": 14, "selected": false },
+        { "code": "glitter", "count": 43, "selected": false },
+        { "code": "graphic", "count": 7, "selected": false },
+        { "code": "grunge", "count": 32, "selected": false },
+        { "code": "lace", "count": 362, "selected": false },
+        { "code": "leather", "count": 24, "selected": false },
+        { "code": "metallic", "count": 19, "selected": false },
+        { "code": "neon", "count": 57, "selected": false },
+        { "code": "ombre", "count": 5, "selected": false },
+        { "code": "pastel colours", "count": 502, "selected": false },
+        { "code": "patent", "count": 13, "selected": false },
+        { "code": "pleated", "count": 58, "selected": false },
+        { "code": "print", "count": 774, "selected": false },
+        { "code": "quilted", "count": 111, "selected": false },
+        { "code": "rhinestones", "count": 60, "selected": false },
+        { "code": "see through", "count": 7, "selected": false },
+        { "code": "sequin", "count": 14, "selected": false },
+        { "code": "studs", "count": 10, "selected": false },
+        { "code": "suede", "count": 6, "selected": false },
+        { "code": "tie-dye", "count": 52, "selected": false },
+        { "code": "utility", "count": 52, "selected": false },
+        { "code": "velvet", "count": 52, "selected": false },
+        { "code": "y2k", "count": 50, "selected": false }
+      ]
+    },
+    {
+      "code": "licenseItems",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "aaliyah", "count": 1, "selected": false },
+        { "code": "ac/dc", "count": 3, "selected": false },
+        { "code": "alice in wonderland", "count": 1, "selected": false },
+        { "code": "bambi", "count": 1, "selected": false },
+        { "code": "blackpink", "count": 1, "selected": false },
+        { "code": "care bears", "count": 4, "selected": false },
+        { "code": "coca-cola", "count": 4, "selected": false },
+        { "code": "daisy duck", "count": 1, "selected": false },
+        { "code": "garfield", "count": 1, "selected": false },
+        { "code": "gorillaz", "count": 1, "selected": false },
+        { "code": "grateful dead", "count": 3, "selected": false },
+        { "code": "green day", "count": 1, "selected": false },
+        { "code": "harvard university", "count": 5, "selected": false },
+        { "code": "ice cube", "count": 1, "selected": false },
+        { "code": "joy division", "count": 1, "selected": false },
+        { "code": "kiss", "count": 1, "selected": false },
+        { "code": "metallica", "count": 1, "selected": false },
+        { "code": "mickey mouse", "count": 8, "selected": false },
+        { "code": "minnie mouse", "count": 1, "selected": false },
+        { "code": "my little pony", "count": 2, "selected": false },
+        { "code": "nfl", "count": 13, "selected": false },
+        { "code": "nirvana", "count": 4, "selected": false },
+        { "code": "sex education", "count": 3, "selected": false },
+        { "code": "shawn mendes", "count": 1, "selected": false },
+        { "code": "snoopy", "count": 2, "selected": false },
+        { "code": "sublime", "count": 3, "selected": false },
+        {
+          "code": "teenage mutant ninja turtles",
+          "count": 1,
+          "selected": false
+        },
+        { "code": "the rolling stones", "count": 9, "selected": false },
+        { "code": "ucla", "count": 23, "selected": false },
+        { "code": "wonder woman", "count": 1, "selected": false },
+        { "code": "yale", "count": 11, "selected": false }
+      ]
+    },
+    {
+      "code": "licenseCompanies",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [{ "code": "disney", "count": 12, "selected": false }]
+    },
+    {
+      "code": "materials",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "Cashmere", "count": 54, "selected": false },
+        { "code": "Chiffon", "count": 57, "selected": false },
+        { "code": "Corduroy", "count": 21, "selected": false },
+        { "code": "Cotton", "count": 1461, "selected": false },
+        { "code": "Denim", "count": 983, "selected": false },
+        { "code": "Flannel", "count": 14, "selected": false },
+        { "code": "Fleece", "count": 17, "selected": false },
+        { "code": "Jersey", "count": 2294, "selected": false },
+        { "code": "Lace", "count": 238, "selected": false },
+        { "code": "Leather", "count": 22, "selected": false },
+        { "code": "Linen", "count": 125, "selected": false },
+        { "code": "Merino", "count": 5, "selected": false },
+        { "code": "Mesh", "count": 62, "selected": false },
+        { "code": "Mohair", "count": 2, "selected": false },
+        { "code": "Satin", "count": 181, "selected": false },
+        { "code": "Silk", "count": 64, "selected": false },
+        { "code": "Straw", "count": 6, "selected": false },
+        { "code": "Suede", "count": 5, "selected": false },
+        { "code": "Teddy", "count": 33, "selected": false },
+        { "code": "Terry towelling", "count": 25, "selected": false },
+        { "code": "Tulle", "count": 3, "selected": false },
+        { "code": "Velvet", "count": 48, "selected": false },
+        { "code": "Wool", "count": 67, "selected": false }
+      ]
+    },
+    {
+      "code": "sustainabilities",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "Conscious choice", "count": 4315, "selected": false }
+      ]
+    },
+    {
+      "code": "allCategories",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        { "code": "ladies_all", "count": 9865, "selected": false },
+        { "code": "ladies_divided", "count": 2502, "selected": false },
+        { "code": "sportswear", "count": 518, "selected": false },
+        { "code": "men_all", "count": 25, "selected": false },
+        { "code": "kids_all", "count": 9, "selected": false },
+        { "code": "kids_newbornbaby_viewall", "count": 3, "selected": false }
+      ]
+    }
+  ],
+  "freeTextSearch": "",
+  "categoryCode": "ladies_all",
+  "rangeFacets": [
+    {
+      "code": "priceRange",
+      "range": { "min": 3, "max": 449, "minSelected": 3, "maxSelected": 449 }
+    }
+  ],
+  "baseUrl": "https://www2.hm.com"
+}

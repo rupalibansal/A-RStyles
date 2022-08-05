@@ -1,0 +1,1519 @@
+{
+  "responseStatusCode": "ok",
+  "product": {
+    "code": "1028353003",
+    "name": "Tie Belt Twill Coat",
+    "description": "Calf length coat in twill. Features notch lapels and a wrap front with a concealed fastener. Wide, detachable tie belt at the waist. Raglan sleeves, diagonal welt front pockets and a single back vent. Lined.",
+    "sapProductName": "Transitional Coat Aaliyah",
+    "sellingAttributes": ["New Arrival"],
+    "color": { "code": "19", "text": "Dark beige", "rgbColor": "#8A816B" },
+    "whitePrice": {
+      "price": 119,
+      "currency": "AUD",
+      "referenceFlag": true,
+      "startDate": 1629496800000,
+      "endDate": 32503676400000
+    },
+    "priceType": "",
+    "measurements": [
+      "Back: Length: 114.0 cm (Size M)",
+      "Sleeve: Length: 75.2 cm (Size M)"
+    ],
+    "assortmentTypeKey": "clothing",
+    "lengthCollection": [
+      { "code": "garmentLength", "value": ["Long"] },
+      { "code": "sleeveLength", "value": ["Long sleeve"] }
+    ],
+    "showPriceMarker": false,
+    "baseProductCode": "1028353_group_003",
+    "ancestorProductCode": "1028353",
+    "mainCategory": { "name": "Coats", "code": "ladies_jacketscoats_coats" },
+    "supercategories": [
+      { "name": "XS _ XXL_Ladies_Test", "code": "XS _ XXL_Ladies_Test" },
+      { "name": "Ladies", "code": "ladies_all" },
+      { "name": "Jackets & Coats", "code": "ladies_jacketscoats" },
+      { "name": "Coats", "code": "ladies_jacketscoats_coats" },
+      { "name": "New Arrivals All", "code": "ladies_newarrivals_all" },
+      { "name": "Clothes", "code": "ladies_newarrivals_clothes" },
+      { "name": "SEUL_CAMPAIGNS_4-6", "code": "SEUL_CAMPAIGNS_4-6" },
+      { "name": "SEUL_VP_4-6", "code": "SEUL_VP_4-6" },
+      { "name": "Conscious", "code": "ladies_conscious" },
+      { "name": "Jackets", "code": "ladies_conscious_jackets" },
+      { "name": "Sustainability", "code": "ladies_sustainability" },
+      { "name": "RUL_1115e", "code": "RUL_1115e" },
+      { "name": "WEUL_S5_WK04-06_LHN", "code": "WEUL_S5_WK04-06_LHN" },
+      { "name": "RUL_LHN_W4_6", "code": "RUL_LHN_W4_6" },
+      {
+        "name": "WEUL_S5_WK04-06_1115E_OUTDOOR",
+        "code": "WEUL_S5_WK04-06_1115E_OUTDOOR"
+      },
+      { "name": "CEUL_04_06_CAMP", "code": "CEUL_04_06_CAMP" },
+      { "name": "CEUL_04_06_LHN", "code": "CEUL_04_06_LHN" },
+      { "name": "1075G_Ladies", "code": "1075G_Ladies" },
+      { "name": "RUL_W51_Online_only_1", "code": "RUL_W51_Online_only_1" },
+      { "name": "NEAL_VP_04_06_LHN", "code": "NEAL_VP_04_06_LHN" },
+      { "name": "GBL_vp_wk4-6", "code": "GBL_vp_wk4-6" },
+      { "name": "5_W_NewArrivals", "code": "5_W_NewArrivals" },
+      { "name": "W_4-6_VP", "code": "W_4-6_VP" },
+      {
+        "name": "TRL_GG_04til06_NEWEST_S5",
+        "code": "TRL_GG_04til06_NEWEST_S5"
+      },
+      { "name": "TRL_GG_04til06_S5", "code": "TRL_GG_04til06_S5" },
+      { "name": "TRL_GG_04til06_NEW_S5", "code": "TRL_GG_04til06_NEW_S5" },
+      { "name": "SEUL_NA_4-6_4", "code": "SEUL_NA_4-6_4" },
+      { "name": "WBUS5_07_STORY1", "code": "WBUS5_07_STORY1" },
+      { "name": "RUL_NA_W7_prio1", "code": "RUL_NA_W7_prio1" },
+      { "name": "SEUL_CAMPAIGNS_7-9", "code": "SEUL_CAMPAIGNS_7-9" },
+      { "name": "SEUL_NA_7-9_W7", "code": "SEUL_NA_7-9_W7" },
+      { "name": "WEUL_S5_WK07_NA", "code": "WEUL_S5_WK07_NA" },
+      { "name": "WEUL_S5_WK07-09_1115K", "code": "WEUL_S5_WK07-09_1115K" },
+      { "name": "RUL_1115K", "code": "RUL_1115K" },
+      { "name": "NEAL_VP_07_09_W7_1075L", "code": "NEAL_VP_07_09_W7_1075L" },
+      { "name": "7_W_NewArrivals", "code": "7_W_NewArrivals" },
+      { "name": "NEUL_BTW_boost_S5", "code": "NEUL_BTW_boost_S5" },
+      {
+        "name": "EEUL_GG_TROUSERS_STRADELLA",
+        "code": "EEUL_GG_TROUSERS_STRADELLA"
+      },
+      { "name": "GBLD_fpranking_wk9-10", "code": "GBLD_fpranking_wk9-10" },
+      { "name": "NEUL_S5_W9_OUTDOOR_NODK", "code": "NEUL_S5_W9_OUTDOOR_NODK" },
+      { "name": "NEUL_S5_W9_OUTDOOR_SE", "code": "NEUL_S5_W9_OUTDOOR_SE" },
+      {
+        "name": "WEUL_S5_SUMMERSALE_ALL_ATCH",
+        "code": "WEUL_S5_SUMMERSALE_ALL_ATCH"
+      },
+      {
+        "name": "WEUL_S5_SUMMERSALE_ALL_BE_NEW",
+        "code": "WEUL_S5_SUMMERSALE_ALL_BE_NEW"
+      },
+      { "name": "AUL_W30_PINK", "code": "AUL_W30_PINK" },
+      { "name": "AUL_NEW_MUSTHAVES", "code": "AUL_NEW_MUSTHAVES" }
+    ],
+    "constructionDescr": "Woven",
+    "customerGroup": "Women",
+    "functions": [],
+    "newArrival": true,
+    "articlesList": [
+      {
+        "code": "1028353001",
+        "name": "Tie Belt Twill Coat",
+        "description": "Calf length coat in twill. Features notch lapels and a wrap front with a concealed fastener. Wide, detachable tie belt at the waist. Raglan sleeves, diagonal welt front pockets and a single back vent. Lined.",
+        "sellingAttributes": [],
+        "color": { "code": "11", "text": "Cream", "rgbColor": "#EEEDE1" },
+        "whitePrice": {
+          "price": 119,
+          "currency": "AUD",
+          "referenceFlag": true,
+          "startDate": 1629496800000,
+          "endDate": 32503676400000
+        },
+        "colourDescription": "Cream",
+        "pattern": "Solid colour",
+        "lengthCollection": [],
+        "showPriceMarker": false,
+        "disclaimer": [],
+        "lightNeeds": [],
+        "wateringNeeds": [],
+        "plantType": [],
+        "plantAndFlowerStyle": [],
+        "salesMode": [],
+        "galleryDetails": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F86%2F26%2F86265056f06d06f21f46ef937e6e5adc8543e929.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D",
+            "assetType": "LOOKBOOK"
+          },
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fdd%2F57%2Fdd5701fd62fe0ef59a3fa535f03fab536d1f4b4c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D",
+            "assetType": "LOOKBOOK"
+          },
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F81%2F5c%2F815c4f2cc808da2f4727bfeea33038433ca416de.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D",
+            "assetType": "LOOKBOOK"
+          },
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F28%2F37%2F283756fec998fade60d2de614fd261ee1be89a17.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D",
+            "assetType": "LOOKBOOK"
+          },
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe7%2Fee%2Fe7ee4b7df7c0657a873dc736dba34d8fedf5a3d5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D",
+            "assetType": "LOOKBOOK"
+          },
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F83%2F9a%2F839ad3bfee393f9b6420a5ad2235306595023feb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D",
+            "assetType": "DESCRIPTIVESTILLLIFE"
+          },
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F25%2F74%2F2574a7e98152213e519eaf7fa974288d0fd5171f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D",
+            "assetType": "DESCRIPTIVEDETAIL"
+          },
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F57%2F7d%2F577d2b1573e797af2876af95d203a496feab70a8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D",
+            "assetType": "DESCRIPTIVEDETAIL"
+          }
+        ],
+        "fabricSwatchThumbnails": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F83%2F9a%2F839ad3bfee393f9b6420a5ad2235306595023feb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D",
+            "assetType": "DESCRIPTIVESTILLLIFE"
+          }
+        ],
+        "styleWith": [
+          {
+            "code": "1012606005",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "dam",
+            "parentProductCode": "1012606_group_005",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1037180003",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "dam",
+            "parentProductCode": "1037180_group_003",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1058895001",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "dam",
+            "parentProductCode": "1058895_group_001",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1067463001",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "dam",
+            "parentProductCode": "1067463_group_001",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1011828024",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "dam",
+            "parentProductCode": "1011828_group_024",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1047693001",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "dam",
+            "parentProductCode": "1047693_group_001",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "0941374008",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "0941374_group_008",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "0987718001",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "0987718_group_001",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1045459003",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1045459_group_003",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1058011001",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1058011_group_001",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1052143001",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1052143_group_001",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1033132001",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1033132_group_001",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1059081004",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1059081_group_004",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "0799365037",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "0799365_group_037",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1059110001",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1059110_group_001",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1045736003",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1045736_group_003",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "0941666030",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "0941666_group_030",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "0988436005",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "0988436_group_005",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1045419004",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1045419_group_004",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1062001001",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1062001_group_001",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          }
+        ],
+        "functions": [],
+        "careInstructions": [
+          "Line dry",
+          "Only non-chlorine bleach when needed",
+          "Machine wash at 40°",
+          "Medium iron",
+          "No dry clean",
+          "Wash with similar colours"
+        ],
+        "compositions": [
+          {
+            "materials": [
+              { "name": "Elastane", "percentage": "4.00" },
+              { "name": "Viscose", "percentage": "28.00" },
+              { "name": "Polyester", "percentage": "68.00" }
+            ],
+            "compositionType": "Shell"
+          },
+          {
+            "materials": [{ "name": "Polyester", "percentage": "100.00" }],
+            "compositionType": "Lining"
+          }
+        ],
+        "graphicalAppearanceDesc": "Solid",
+        "genericDescription": "Coat White",
+        "variantsList": [
+          {
+            "code": "1028353001002",
+            "size": {
+              "sizeCode": "002",
+              "name": "XS",
+              "sizeScaleCode": "176",
+              "sizeOrder": 2,
+              "sizeFilter": "XS",
+              "market": "SP_AU"
+            }
+          },
+          {
+            "code": "1028353001003",
+            "size": {
+              "sizeCode": "003",
+              "name": "S",
+              "sizeScaleCode": "176",
+              "sizeOrder": 3,
+              "sizeFilter": "S",
+              "market": "SP_AU"
+            }
+          },
+          {
+            "code": "1028353001004",
+            "size": {
+              "sizeCode": "004",
+              "name": "M",
+              "sizeScaleCode": "176",
+              "sizeOrder": 4,
+              "sizeFilter": "M",
+              "market": "SP_AU"
+            }
+          },
+          {
+            "code": "1028353001005",
+            "size": {
+              "sizeCode": "005",
+              "name": "L",
+              "sizeScaleCode": "176",
+              "sizeOrder": 5,
+              "sizeFilter": "L",
+              "market": "SP_AU"
+            }
+          },
+          {
+            "code": "1028353001006",
+            "size": {
+              "sizeCode": "006",
+              "name": "XL",
+              "sizeScaleCode": "176",
+              "sizeOrder": 6,
+              "sizeFilter": "XL",
+              "market": "SP_AU"
+            }
+          },
+          {
+            "code": "1028353001007",
+            "size": {
+              "sizeCode": "007",
+              "name": "XXL",
+              "sizeScaleCode": "176",
+              "sizeOrder": 7,
+              "sizeFilter": "XXL",
+              "market": "SP_AU"
+            }
+          }
+        ],
+        "legalRestrictions": [],
+        "parentProductCode": "1028353_group_001",
+        "styleWithScenario": "scenario_1",
+        "inStore": true,
+        "productTransparencyEnabled": true,
+        "suppliersDetailEnabled": true,
+        "suppliersSectionDisabledReason": "",
+        "comingSoon": false,
+        "modelHeight": "174cm/5'9\"",
+        "garmentSize": "1028353001003",
+        "external": false,
+        "articleType": "Z001",
+        "brandName": "H&M",
+        "palette": false,
+        "travelSize": false,
+        "environmentalMarkers": ["Conscious choice"],
+        "corporateBrandId": 0,
+        "sustainabilityCompositions": [
+          {
+            "materials": [
+              { "name": "Recycled polyester", "percentage": "68.00" }
+            ],
+            "compositionType": "Shell"
+          },
+          {
+            "materials": [
+              { "name": "Recycled polyester", "percentage": "100.00" }
+            ],
+            "compositionType": "Lining"
+          }
+        ],
+        "woodCompositions": [],
+        "articleCountryOfProduction": "China"
+      },
+      {
+        "code": "1028353002",
+        "name": "Tie Belt Twill Coat",
+        "description": "Calf length coat in twill. Features notch lapels and a wrap front with a concealed fastener. Wide, detachable tie belt at the waist. Raglan sleeves, diagonal welt front pockets and a single back vent. Lined.",
+        "sellingAttributes": [],
+        "color": { "code": "09", "text": "Black", "rgbColor": "#272628" },
+        "whitePrice": {
+          "price": 119,
+          "currency": "AUD",
+          "referenceFlag": true,
+          "startDate": 1629496800000,
+          "endDate": 32503676400000
+        },
+        "colourDescription": "Black",
+        "pattern": "Solid colour",
+        "lengthCollection": [],
+        "showPriceMarker": false,
+        "disclaimer": [],
+        "lightNeeds": [],
+        "wateringNeeds": [],
+        "plantType": [],
+        "plantAndFlowerStyle": [],
+        "salesMode": [],
+        "galleryDetails": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fec%2Fef%2Fecef9d77c56c519e24a76b83331ae2c18f73f50d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D",
+            "assetType": "LOOKBOOK"
+          },
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F76%2Fa5%2F76a52f2f7cf3675881f3e6852b484be1adbf199f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D",
+            "assetType": "LOOKBOOK"
+          },
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc5%2F1f%2Fc51ff59e7a4ca4c9891e4cad5d551ddcac5ff443.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D",
+            "assetType": "LOOKBOOK"
+          },
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd7%2F62%2Fd7620507ea36e0b8a9af88fec49cb3ddf3cda78a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D",
+            "assetType": "LOOKBOOK"
+          },
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0e%2F16%2F0e16cf67bed19eecad654f7316925159ee94abb9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D",
+            "assetType": "LOOKBOOK"
+          },
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F3b%2Fc3%2F3bc3d07f5e33840b5b2b7e33f74d1ad6787ebb82.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D",
+            "assetType": "DESCRIPTIVESTILLLIFE"
+          },
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fba%2Fdf%2Fbadff4a860edf61fbeffaafb3cc73692547fee45.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D",
+            "assetType": "DESCRIPTIVEDETAIL"
+          }
+        ],
+        "fabricSwatchThumbnails": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F3b%2Fc3%2F3bc3d07f5e33840b5b2b7e33f74d1ad6787ebb82.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D",
+            "assetType": "DESCRIPTIVESTILLLIFE"
+          }
+        ],
+        "styleWith": [
+          {
+            "code": "1045459002",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "dam",
+            "parentProductCode": "1045459_group_002",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1038839003",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "dam",
+            "parentProductCode": "1038839_group_003",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "0988663001",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "dam",
+            "parentProductCode": "0988663_group_001",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1065651001",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1065651_group_001",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1046090003",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1046090_group_003",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1043914003",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1043914_group_003",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1045736002",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1045736_group_002",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1033132001",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1033132_group_001",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1038836001",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1038836_group_001",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "0938930014",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "0938930_group_014",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1018504016",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1018504_group_016",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1053608001",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1053608_group_001",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1053068002",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1053068_group_002",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1052143001",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1052143_group_001",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1039002006",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1039002_group_006",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1053075001",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1053075_group_001",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "0934389001",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "0934389_group_001",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "0990348007",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "0990348_group_007",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "0941666029",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "0941666_group_029",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1058630002",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1058630_group_002",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1036786005",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1036786_group_005",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          }
+        ],
+        "functions": [],
+        "careInstructions": [
+          "Line dry",
+          "Only non-chlorine bleach when needed",
+          "Machine wash at 40°",
+          "Medium iron",
+          "No dry clean",
+          "Wash with similar colours"
+        ],
+        "compositions": [
+          {
+            "materials": [{ "name": "Polyester", "percentage": "100.00" }],
+            "compositionType": "Lining"
+          },
+          {
+            "materials": [
+              { "name": "Elastane", "percentage": "4.00" },
+              { "name": "Viscose", "percentage": "28.00" },
+              { "name": "Polyester", "percentage": "68.00" }
+            ],
+            "compositionType": "Shell"
+          }
+        ],
+        "graphicalAppearanceDesc": "Solid",
+        "genericDescription": "Coat Black",
+        "variantsList": [
+          {
+            "code": "1028353002002",
+            "size": {
+              "sizeCode": "002",
+              "name": "XS",
+              "sizeScaleCode": "176",
+              "sizeOrder": 2,
+              "sizeFilter": "XS",
+              "market": "SP_AU"
+            }
+          },
+          {
+            "code": "1028353002003",
+            "size": {
+              "sizeCode": "003",
+              "name": "S",
+              "sizeScaleCode": "176",
+              "sizeOrder": 3,
+              "sizeFilter": "S",
+              "market": "SP_AU"
+            }
+          },
+          {
+            "code": "1028353002004",
+            "size": {
+              "sizeCode": "004",
+              "name": "M",
+              "sizeScaleCode": "176",
+              "sizeOrder": 4,
+              "sizeFilter": "M",
+              "market": "SP_AU"
+            }
+          },
+          {
+            "code": "1028353002005",
+            "size": {
+              "sizeCode": "005",
+              "name": "L",
+              "sizeScaleCode": "176",
+              "sizeOrder": 5,
+              "sizeFilter": "L",
+              "market": "SP_AU"
+            }
+          },
+          {
+            "code": "1028353002006",
+            "size": {
+              "sizeCode": "006",
+              "name": "XL",
+              "sizeScaleCode": "176",
+              "sizeOrder": 6,
+              "sizeFilter": "XL",
+              "market": "SP_AU"
+            }
+          },
+          {
+            "code": "1028353002007",
+            "size": {
+              "sizeCode": "007",
+              "name": "XXL",
+              "sizeScaleCode": "176",
+              "sizeOrder": 7,
+              "sizeFilter": "XXL",
+              "market": "SP_AU"
+            }
+          }
+        ],
+        "legalRestrictions": [],
+        "parentProductCode": "1028353_group_002",
+        "styleWithScenario": "scenario_1",
+        "inStore": false,
+        "productTransparencyEnabled": true,
+        "suppliersDetailEnabled": true,
+        "suppliersSectionDisabledReason": "",
+        "comingSoon": false,
+        "modelHeight": "177cm/5'10\"",
+        "garmentSize": "1028353002003",
+        "external": false,
+        "articleType": "Z001",
+        "brandName": "H&M",
+        "palette": false,
+        "travelSize": false,
+        "environmentalMarkers": ["Conscious choice"],
+        "corporateBrandId": 0,
+        "sustainabilityCompositions": [
+          {
+            "materials": [
+              { "name": "Recycled polyester", "percentage": "68.00" }
+            ],
+            "compositionType": "Shell"
+          },
+          {
+            "materials": [
+              { "name": "Recycled polyester", "percentage": "100.00" }
+            ],
+            "compositionType": "Lining"
+          }
+        ],
+        "woodCompositions": [],
+        "articleCountryOfProduction": ""
+      },
+      {
+        "code": "1028353003",
+        "name": "Tie Belt Twill Coat",
+        "description": "Calf length coat in twill. Features notch lapels and a wrap front with a concealed fastener. Wide, detachable tie belt at the waist. Raglan sleeves, diagonal welt front pockets and a single back vent. Lined.",
+        "sellingAttributes": ["New Arrival"],
+        "color": { "code": "19", "text": "Dark beige", "rgbColor": "#8A816B" },
+        "whitePrice": {
+          "price": 119,
+          "currency": "AUD",
+          "referenceFlag": true,
+          "startDate": 1629496800000,
+          "endDate": 32503676400000
+        },
+        "colourDescription": "Dark beige",
+        "pattern": "Solid colour",
+        "lengthCollection": [],
+        "showPriceMarker": false,
+        "disclaimer": [],
+        "lightNeeds": [],
+        "wateringNeeds": [],
+        "plantType": [],
+        "plantAndFlowerStyle": [],
+        "salesMode": [],
+        "galleryDetails": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F95%2Fc0%2F95c09f99fa37b48fc0505a31495ee2d827849e7a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D",
+            "assetType": "LOOKBOOK"
+          },
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff4%2F3b%2Ff43b8692233366f31fb983f29de261a727ca7f89.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D",
+            "assetType": "LOOKBOOK"
+          },
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fba%2F10%2Fba105e8c329939a87b883d2f2258d87147f3b037.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D",
+            "assetType": "LOOKBOOK"
+          },
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F38%2F42%2F38422abbf90d9fbe4f9140251d69161427f5850c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D",
+            "assetType": "LOOKBOOK"
+          },
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F43%2Ffe%2F43fe920e61fa944cb6b304436b30d40c116a9c45.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D",
+            "assetType": "LOOKBOOK"
+          },
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F3e%2F98%2F3e98affb071fe233c48078a2ee924680b923f135.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D",
+            "assetType": "DESCRIPTIVESTILLLIFE"
+          },
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F93%2Fbb%2F93bba59ee5c4f9e75926eba4ef57c29af1298712.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D",
+            "assetType": "DESCRIPTIVEDETAIL"
+          }
+        ],
+        "fabricSwatchThumbnails": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F3e%2F98%2F3e98affb071fe233c48078a2ee924680b923f135.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D",
+            "assetType": "DESCRIPTIVESTILLLIFE"
+          }
+        ],
+        "styleWith": [
+          {
+            "code": "1030729003",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "dam",
+            "parentProductCode": "1030729_group_003",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1058011001",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "dam",
+            "parentProductCode": "1058011_group_001",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1019929002",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "dam",
+            "parentProductCode": "1019929",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1046090001",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "dam",
+            "parentProductCode": "1046090_group_001",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1022876001",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "dam",
+            "parentProductCode": "1022876",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1043264001",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "dam",
+            "parentProductCode": "1043264_group_001",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1071855003",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1071855_group_003",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1061581002",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1061581_group_002",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1045750002",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1045750_group_002",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "0990348006",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "0990348_group_006",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1058630005",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1058630_group_005",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1005067001",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1005067_group_001",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1035873001",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1035873_group_001",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1034707007",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1034707_group_007",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1053089002",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1053089_group_002",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1008664005",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1008664_group_005",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1048744006",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1048744_group_006",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          },
+          {
+            "code": "1045751003",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "styleWithOrigin": "manual",
+            "parentProductCode": "1045751_group_003",
+            "inStore": false,
+            "productTransparencyEnabled": false,
+            "suppliersDetailEnabled": false,
+            "comingSoon": false,
+            "external": false,
+            "palette": false,
+            "travelSize": false
+          }
+        ],
+        "functions": [],
+        "careInstructions": [
+          "Line dry",
+          "Only non-chlorine bleach when needed",
+          "Machine wash at 40°",
+          "Medium iron",
+          "No dry clean"
+        ],
+        "compositions": [
+          {
+            "materials": [
+              { "name": "Elastane", "percentage": "3.00" },
+              { "name": "Viscose", "percentage": "29.00" },
+              { "name": "Polyester", "percentage": "68.00" }
+            ],
+            "compositionType": "Shell"
+          },
+          {
+            "materials": [{ "name": "Polyester", "percentage": "100.00" }],
+            "compositionType": "Lining"
+          }
+        ],
+        "graphicalAppearanceDesc": "Solid",
+        "genericDescription": "Coat Beige",
+        "variantsList": [
+          {
+            "code": "1028353003002",
+            "size": {
+              "sizeCode": "002",
+              "name": "XS",
+              "sizeScaleCode": "176",
+              "sizeOrder": 2,
+              "sizeFilter": "XS",
+              "market": "SP_AU"
+            }
+          },
+          {
+            "code": "1028353003003",
+            "size": {
+              "sizeCode": "003",
+              "name": "S",
+              "sizeScaleCode": "176",
+              "sizeOrder": 3,
+              "sizeFilter": "S",
+              "market": "SP_AU"
+            }
+          },
+          {
+            "code": "1028353003004",
+            "size": {
+              "sizeCode": "004",
+              "name": "M",
+              "sizeScaleCode": "176",
+              "sizeOrder": 4,
+              "sizeFilter": "M",
+              "market": "SP_AU"
+            }
+          },
+          {
+            "code": "1028353003005",
+            "size": {
+              "sizeCode": "005",
+              "name": "L",
+              "sizeScaleCode": "176",
+              "sizeOrder": 5,
+              "sizeFilter": "L",
+              "market": "SP_AU"
+            }
+          },
+          {
+            "code": "1028353003006",
+            "size": {
+              "sizeCode": "006",
+              "name": "XL",
+              "sizeScaleCode": "176",
+              "sizeOrder": 6,
+              "sizeFilter": "XL",
+              "market": "SP_AU"
+            }
+          },
+          {
+            "code": "1028353003007",
+            "size": {
+              "sizeCode": "007",
+              "name": "XXL",
+              "sizeScaleCode": "176",
+              "sizeOrder": 7,
+              "sizeFilter": "XXL",
+              "market": "SP_AU"
+            }
+          }
+        ],
+        "legalRestrictions": [],
+        "parentProductCode": "1028353_group_003",
+        "styleWithScenario": "scenario_1",
+        "inStore": false,
+        "productTransparencyEnabled": true,
+        "suppliersDetailEnabled": true,
+        "suppliersSectionDisabledReason": "",
+        "comingSoon": false,
+        "modelHeight": "177cm/5'10\"",
+        "garmentSize": "1028353003003",
+        "external": false,
+        "articleType": "Z001",
+        "brandName": "H&M",
+        "palette": false,
+        "travelSize": false,
+        "environmentalMarkers": ["Conscious choice"],
+        "corporateBrandId": 0,
+        "sustainabilityCompositions": [
+          {
+            "materials": [
+              { "name": "Recycled polyester", "percentage": "68.00" }
+            ],
+            "compositionType": "Shell"
+          },
+          {
+            "materials": [
+              { "name": "Recycled polyester", "percentage": "100.00" }
+            ],
+            "compositionType": "Lining"
+          }
+        ],
+        "woodCompositions": [],
+        "articleCountryOfProduction": "China"
+      }
+    ],
+    "inStock": false,
+    "productUrl": "https://www2.hm.com/en_au/productpage.1028353003.html",
+    "swatchesType": "DESCRIPTIVE_STILL_LIFE",
+    "rootCategoryPath": "/1/ladies",
+    "productKey": "1028353_en_au",
+    "productCountryOfProduction": "China",
+    "showGarmentsInfo": true,
+    "yearOfProduction": "2022",
+    "styleCollection": [{ "code": "sleeveStyle", "value": ["Raglan sleeve"] }],
+    "materialDetails": [
+      {
+        "name": "Elastane",
+        "description": "Elastane is a stretchy, synthetic fibre made from oil (a fossil resource). We have started using more sustainable alternatives, such as recycled elastane."
+      },
+      {
+        "name": "Polyester",
+        "description": "Polyester is an artificial fibre made from fossil resources (crude oil). We are constantly striving to increase our use of recycled polyester — a more sustainable option made from waste such as plastic (PET) bottles. We are also engaging heavily in bio-based solutions and technologies that will enable textile-to-textile recycling, to further improve the sustainability of recycled polyester and save natural resources. In 2023 we will offer garments made of textile to textile recycled polyester."
+      },
+      {
+        "name": "Viscose",
+        "description": "Viscose is a regenerated cellulose fibre commonly made from wood, but the raw material could also consist of other cellulosic materials. We are aiming to ensure that all wood used to make cellulosic fibres comes from sustainably managed forests or plantations. You can also find recycled viscose made from discarded cotton textiles in our assortment."
+      }
+    ],
+    "presentationTypes": "Coat",
+    "multipack": false,
+    "newProduct": true
+  }
+}

@@ -1,0 +1,4366 @@
+[
+  [
+    {
+      "code": "1007019_group_003",
+      "name": "Oversized Wool-blend Cardigan",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "USD",
+        "value": 259,
+        "priceType": "BUY",
+        "formattedValue": "$ 259.00",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/09/aa/09aa9280ed4f5b058f243e66b4320ddcb0f996ec.jpg],origin[dam],category[ladies_cardigansjumpers_cardigans],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9426357911553",
+      "sellingAttributes": ["New Arrival"],
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 259,
+        "priceType": "BUY",
+        "formattedValue": "$ 259.00",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1007019003",
+          "name": "Oversized Wool-blend Cardigan",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/09/aa/09aa9280ed4f5b058f243e66b4320ddcb0f996ec.jpg],origin[dam],category[ladies_cardigansjumpers_cardigans],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9396825227265",
+          "sellingAttributes": ["New Arrival"],
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 259,
+            "priceType": "BUY",
+            "formattedValue": "$ 259.00",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/09/aa/09aa9280ed4f5b058f243e66b4320ddcb0f996ec.jpg],origin[dam],category[ladies_cardigansjumpers_cardigans],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/09/aa/09aa9280ed4f5b058f243e66b4320ddcb0f996ec.jpg],origin[dam],category[ladies_cardigansjumpers_cardigans],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]"
+            }
+          ],
+          "markers": [{ "text": "Premium Selection", "type": "QUALITY" }],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAwNzAxOV9ncm91cF8wMDNfZW5fdXM7MTAwNzAxOTAwM19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "F5F5DC",
+            "text": "Taupe",
+            "filterName": "Brown_A52A2A",
+            "hybrisCode": "15"
+          },
+          "rgbColor": "#746A5F"
+        }
+      ],
+      "markers": [{ "text": "Premium Selection", "type": "QUALITY" }],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1007019003",
+        "name": "Oversized Wool-blend Cardigan",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/09/aa/09aa9280ed4f5b058f243e66b4320ddcb0f996ec.jpg],origin[dam],category[ladies_cardigansjumpers_cardigans],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9396825227265",
+        "sellingAttributes": ["New Arrival"],
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 259,
+          "priceType": "BUY",
+          "formattedValue": "$ 259.00",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/09/aa/09aa9280ed4f5b058f243e66b4320ddcb0f996ec.jpg],origin[dam],category[ladies_cardigansjumpers_cardigans],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/09/aa/09aa9280ed4f5b058f243e66b4320ddcb0f996ec.jpg],origin[dam],category[ladies_cardigansjumpers_cardigans],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]"
+          }
+        ],
+        "markers": [{ "text": "Premium Selection", "type": "QUALITY" }],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAwNzAxOV9ncm91cF8wMDNfZW5fdXM7MTAwNzAxOTAwM19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "F5F5DC",
+          "text": "Taupe",
+          "filterName": "Brown_A52A2A",
+          "hybrisCode": "15"
+        },
+        "rgbColor": "#746A5F"
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 363, "filterCode": "XS" },
+        { "orderFilter": 366, "filterCode": "S" },
+        { "orderFilter": 370, "filterCode": "L" },
+        { "orderFilter": 369, "filterCode": "M" }
+      ],
+      "swatches": [],
+      "articleCodes": ["1007019003"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAwNzAxOV9ncm91cF8wMDNfZW5fdXM7MTAwNzAxOTAwM19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+      "searchEngineProductId": "1007019_group_003_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1007019003.html",
+      "categoryName": "Ladies",
+      "rgbColors": ["#746A5F"],
+      "articleColorNames": ["Taupe"],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 1,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "ladies_cardigansjumpers_cardigans",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "1092597_group_001",
+      "name": "5-pack Cotton Twill Pants",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "USD",
+        "value": 64.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 64.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/f6/30/f63052970d2ea53ead0d5b63c19f5bdbbd504c48.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9427075727361",
+      "sellingAttributes": ["New Arrival"],
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 64.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 64.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1092597001",
+          "name": "5-pack Cotton Twill Pants",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/f6/30/f63052970d2ea53ead0d5b63c19f5bdbbd504c48.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9403016249345",
+          "sellingAttributes": ["New Arrival"],
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 64.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 64.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/a9/61/a9618ea68ac948938930f03cd743862afcf106cb.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/a9/61/a9618ea68ac948938930f03cd743862afcf106cb.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA5MjU5N19ncm91cF8wMDFfZW5fdXM7MTA5MjU5NzAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "000000",
+            "text": "Brown/dark green/light gray",
+            "filterName": "Beige_F5F5DC,Brown_A52A2A,Green_008000,Gray_808080",
+            "hybrisCode": "09"
+          },
+          "rgbColor": "#303033"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1092597001",
+        "name": "5-pack Cotton Twill Pants",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/f6/30/f63052970d2ea53ead0d5b63c19f5bdbbd504c48.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9403016249345",
+        "sellingAttributes": ["New Arrival"],
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 64.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 64.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/a9/61/a9618ea68ac948938930f03cd743862afcf106cb.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/a9/61/a9618ea68ac948938930f03cd743862afcf106cb.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA5MjU5N19ncm91cF8wMDFfZW5fdXM7MTA5MjU5NzAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "000000",
+          "text": "Brown/dark green/light gray",
+          "filterName": "Beige_F5F5DC,Brown_A52A2A,Green_008000,Gray_808080",
+          "hybrisCode": "09"
+        },
+        "rgbColor": "#303033"
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 3154, "filterCode": "7 (7-8Y)" },
+        { "orderFilter": 3149, "filterCode": "3T (2-3Y)" },
+        { "orderFilter": 3153, "filterCode": "6X (6-7Y)" },
+        { "orderFilter": 3156, "filterCode": "10 (9-10Y)" },
+        { "orderFilter": 3155, "filterCode": "8 (8-9Y)" },
+        { "orderFilter": 3150, "filterCode": "4T (3-4Y)" },
+        { "orderFilter": 3152, "filterCode": "6 (5-6Y)" },
+        { "orderFilter": 3151, "filterCode": "5T (4-5Y)" },
+        { "orderFilter": 3148, "filterCode": "2T (1½-2Y)" }
+      ],
+      "swatches": [],
+      "articleCodes": ["1092597001"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA5MjU5N19ncm91cF8wMDFfZW5fdXM7MTA5MjU5NzAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+      "searchEngineProductId": "1092597_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1092597001.html",
+      "categoryName": "Kids",
+      "rgbColors": ["#303033"],
+      "articleColorNames": ["Brown/dark green/light gray"],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 1,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "kids_clothing_trousersjeans_trousers",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "0975620_group_006",
+      "name": "10-pack Regular Fit Crew-neck T-shirts",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "USD",
+        "value": 59.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 59.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/70/0b/700b9a97be923b887f03541517f279f08fbe9154.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9399687315457",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 59.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 59.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "0975620006",
+          "name": "10-pack Regular Fit Crew-neck T-shirts",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/70/0b/700b9a97be923b887f03541517f279f08fbe9154.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9383457062913",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 59.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 59.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/70/0b/700b9a97be923b887f03541517f279f08fbe9154.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/70/0b/700b9a97be923b887f03541517f279f08fbe9154.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDk3NTYyMF9ncm91cF8wMDZfZW5fdXM7MDk3NTYyMDAwNl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "FFA500",
+            "text": "Coral/purple",
+            "filterName": "Beige_F5F5DC,Black_000000,Blue_0000FF,Green_008000,Orange_FFA500,Purple_800080,White_FFFFFF",
+            "hybrisCode": "34"
+          },
+          "rgbColor": "#CD9B7B",
+          "genArticle": "975620006225"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "0975620006",
+        "name": "10-pack Regular Fit Crew-neck T-shirts",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/70/0b/700b9a97be923b887f03541517f279f08fbe9154.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9383457062913",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 59.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 59.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/70/0b/700b9a97be923b887f03541517f279f08fbe9154.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/70/0b/700b9a97be923b887f03541517f279f08fbe9154.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDk3NTYyMF9ncm91cF8wMDZfZW5fdXM7MDk3NTYyMDAwNl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "FFA500",
+          "text": "Coral/purple",
+          "filterName": "Beige_F5F5DC,Black_000000,Blue_0000FF,Green_008000,Orange_FFA500,Purple_800080,White_FFFFFF",
+          "hybrisCode": "34"
+        },
+        "rgbColor": "#CD9B7B",
+        "genArticle": "975620006225"
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 363, "filterCode": "XS" },
+        { "orderFilter": 366, "filterCode": "S" },
+        { "orderFilter": 381, "filterCode": "3XL" },
+        { "orderFilter": 370, "filterCode": "L" },
+        { "orderFilter": 375, "filterCode": "XXL" },
+        { "orderFilter": 369, "filterCode": "M" },
+        { "orderFilter": 372, "filterCode": "XL" }
+      ],
+      "swatches": [],
+      "articleCodes": ["0975620006", "0975620007", "0975620008"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDk3NTYyMF9ncm91cF8wMDZfZW5fdXM7MDk3NTYyMDAwNl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+      "searchEngineProductId": "0975620_group_006_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.0975620006.html",
+      "categoryName": "Men",
+      "rgbColors": ["#CD9B7B", "#FFFFFF", "#6F8383"],
+      "articleColorNames": [
+        "Coral/purple",
+        "White/Beige/Turquoise",
+        "Turquoise/green/blue"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 3,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_tshirtstanks_multipacks",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "0975620_group_008",
+      "name": "10-pack Regular Fit Crew-neck T-shirts",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "USD",
+        "value": 59.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 59.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/62/6d/626df1a5f1793065a5d3d2378e6e0a4da67edb72.jpg],origin[dam],category[men_tshirtstanks_multipacks],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9410275868673",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 59.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 59.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "0975620008",
+          "name": "10-pack Regular Fit Crew-neck T-shirts",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/62/6d/626df1a5f1793065a5d3d2378e6e0a4da67edb72.jpg],origin[dam],category[men_tshirtstanks_multipacks],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9398848651265",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 59.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 59.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/d7/73/d773940c6564026e96dc97f0c94ede8812518a2d.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/d7/73/d773940c6564026e96dc97f0c94ede8812518a2d.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDk3NTYyMF9ncm91cF8wMDhfZW5fdXM7MDk3NTYyMDAwOF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "40E0D0",
+            "text": "Turquoise/green/blue",
+            "filterName": "Beige_F5F5DC,Black_000000,Blue_0000FF,Green_008000,Gray_808080,Turquoise_40E0D0,White_FFFFFF",
+            "hybrisCode": "88"
+          },
+          "rgbColor": "#6F8383",
+          "genArticle": "975620008226"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "0975620008",
+        "name": "10-pack Regular Fit Crew-neck T-shirts",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/62/6d/626df1a5f1793065a5d3d2378e6e0a4da67edb72.jpg],origin[dam],category[men_tshirtstanks_multipacks],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9398848651265",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 59.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 59.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/d7/73/d773940c6564026e96dc97f0c94ede8812518a2d.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/d7/73/d773940c6564026e96dc97f0c94ede8812518a2d.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDk3NTYyMF9ncm91cF8wMDhfZW5fdXM7MDk3NTYyMDAwOF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "40E0D0",
+          "text": "Turquoise/green/blue",
+          "filterName": "Beige_F5F5DC,Black_000000,Blue_0000FF,Green_008000,Gray_808080,Turquoise_40E0D0,White_FFFFFF",
+          "hybrisCode": "88"
+        },
+        "rgbColor": "#6F8383",
+        "genArticle": "975620008226"
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 369, "filterCode": "M" },
+        { "orderFilter": 381, "filterCode": "3XL" },
+        { "orderFilter": 370, "filterCode": "L" },
+        { "orderFilter": 372, "filterCode": "XL" },
+        { "orderFilter": 363, "filterCode": "XS" },
+        { "orderFilter": 366, "filterCode": "S" },
+        { "orderFilter": 375, "filterCode": "XXL" }
+      ],
+      "swatches": [],
+      "articleCodes": ["0975620008", "0975620006", "0975620007"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDk3NTYyMF9ncm91cF8wMDhfZW5fdXM7MDk3NTYyMDAwOF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+      "searchEngineProductId": "0975620_group_008_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.0975620008.html",
+      "categoryName": "Men",
+      "rgbColors": ["#6F8383", "#CD9B7B", "#FFFFFF"],
+      "articleColorNames": [
+        "Turquoise/green/blue",
+        "Coral/purple",
+        "White/Beige/Turquoise"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 3,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_tshirtstanks_multipacks",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "1099419_group_001",
+      "name": "Mock Turtleneck Sweater",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "USD",
+        "value": 49.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 49.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/3c/98/3c988a60e85bebf27893be132e172068283fe80b.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9428535738369",
+      "sellingAttributes": ["New Arrival"],
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 49.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 49.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1099419001",
+          "name": "Mock Turtleneck Sweater",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/3c/98/3c988a60e85bebf27893be132e172068283fe80b.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9397525938177",
+          "sellingAttributes": ["New Arrival"],
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 49.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 49.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/15/85/1585b0d1ed59352b8565aa7b49b7a2831f9e12dd.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/15/85/1585b0d1ed59352b8565aa7b49b7a2831f9e12dd.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA5OTQxOV9ncm91cF8wMDFfZW5fdXM7MTA5OTQxOTAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "F5F5DC",
+            "text": "Light beige/striped",
+            "filterName": "Beige_F5F5DC,Multi_000000",
+            "hybrisCode": "12"
+          },
+          "rgbColor": "#DFD8C9",
+          "genArticle": "099419001226"
+        }
+      ],
+      "visible": false,
+      "concept": ["MODERN CLASSIC"],
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1099419001",
+        "name": "Mock Turtleneck Sweater",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/3c/98/3c988a60e85bebf27893be132e172068283fe80b.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9397525938177",
+        "sellingAttributes": ["New Arrival"],
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 49.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 49.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/15/85/1585b0d1ed59352b8565aa7b49b7a2831f9e12dd.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/15/85/1585b0d1ed59352b8565aa7b49b7a2831f9e12dd.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA5OTQxOV9ncm91cF8wMDFfZW5fdXM7MTA5OTQxOTAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "F5F5DC",
+          "text": "Light beige/striped",
+          "filterName": "Beige_F5F5DC,Multi_000000",
+          "hybrisCode": "12"
+        },
+        "rgbColor": "#DFD8C9",
+        "genArticle": "099419001226"
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 375, "filterCode": "XXL" },
+        { "orderFilter": 366, "filterCode": "S" },
+        { "orderFilter": 370, "filterCode": "L" },
+        { "orderFilter": 369, "filterCode": "M" },
+        { "orderFilter": 363, "filterCode": "XS" },
+        { "orderFilter": 372, "filterCode": "XL" }
+      ],
+      "swatches": [],
+      "articleCodes": ["1099419001"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA5OTQxOV9ncm91cF8wMDFfZW5fdXM7MTA5OTQxOTAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+      "searchEngineProductId": "1099419_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1099419001.html",
+      "categoryName": "Ladies",
+      "rgbColors": ["#DFD8C9"],
+      "articleColorNames": ["Light beige/striped"],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 1,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "ladies_knitwear",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "1088802_group_001",
+      "name": "Fine-knit Cardigan Dress",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "USD",
+        "value": 49.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 49.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/b9/4e/b94e80b746dbfdbe0df0eb72f146d1476d37cfd1.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9424226516993",
+      "sellingAttributes": ["New Arrival"],
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 49.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 49.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1088802001",
+          "name": "Fine-knit Cardigan Dress",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/b9/4e/b94e80b746dbfdbe0df0eb72f146d1476d37cfd1.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9394614665217",
+          "sellingAttributes": ["New Arrival"],
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 49.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 49.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/d8/d8/d8d8d98308c910dd7d80237be5a4b3bac6479b95.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/d8/d8/d8d8d98308c910dd7d80237be5a4b3bac6479b95.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "markers": [{ "text": "Conscious choice  ", "type": "ENVIRONMENT" }],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA4ODgwMl9ncm91cF8wMDFfZW5fdXM7MTA4ODgwMjAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "F5F5DC",
+            "text": "Light beige melange",
+            "filterName": "Beige_F5F5DC",
+            "hybrisCode": "12"
+          },
+          "rgbColor": "#D0C2AA",
+          "genArticle": "088802001226",
+          "environmentalMarkers": ["Conscious choice  "]
+        }
+      ],
+      "markers": [{ "text": "Conscious choice  ", "type": "ENVIRONMENT" }],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1088802001",
+        "name": "Fine-knit Cardigan Dress",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/b9/4e/b94e80b746dbfdbe0df0eb72f146d1476d37cfd1.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9394614665217",
+        "sellingAttributes": ["New Arrival"],
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 49.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 49.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/d8/d8/d8d8d98308c910dd7d80237be5a4b3bac6479b95.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/d8/d8/d8d8d98308c910dd7d80237be5a4b3bac6479b95.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "markers": [{ "text": "Conscious choice  ", "type": "ENVIRONMENT" }],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA4ODgwMl9ncm91cF8wMDFfZW5fdXM7MTA4ODgwMjAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "F5F5DC",
+          "text": "Light beige melange",
+          "filterName": "Beige_F5F5DC",
+          "hybrisCode": "12"
+        },
+        "rgbColor": "#D0C2AA",
+        "genArticle": "088802001226",
+        "environmentalMarkers": ["Conscious choice  "]
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 370, "filterCode": "L" },
+        { "orderFilter": 375, "filterCode": "XXL" },
+        { "orderFilter": 369, "filterCode": "M" },
+        { "orderFilter": 372, "filterCode": "XL" }
+      ],
+      "swatches": [],
+      "articleCodes": ["1088802001"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA4ODgwMl9ncm91cF8wMDFfZW5fdXM7MTA4ODgwMjAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+      "searchEngineProductId": "1088802_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1088802001.html",
+      "categoryName": "Ladies",
+      "rgbColors": ["#D0C2AA"],
+      "articleColorNames": ["Light beige melange"],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 1,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "ladies_dresses_maxidresses",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "1086473_group_009",
+      "name": "Double-breasted Jacket",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/84/3d/843d85380a7797d2885bf26f9a32c395157a0544.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9424211083265",
+      "sellingAttributes": ["New Arrival"],
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1086473009",
+          "name": "Double-breasted Jacket",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/84/3d/843d85380a7797d2885bf26f9a32c395157a0544.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9396813135873",
+          "sellingAttributes": ["New Arrival"],
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 39.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 39.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/60/2f/602f1fe7a79f5e9a1b47a48613a5c1db219d34a9.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/60/2f/602f1fe7a79f5e9a1b47a48613a5c1db219d34a9.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA4NjQ3M19ncm91cF8wMDlfZW5fdXM7MTA4NjQ3MzAwOV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "808080",
+            "text": "Gray/plaid",
+            "filterName": "Gray_808080,Multi_000000",
+            "hybrisCode": "07"
+          },
+          "rgbColor": "#848384",
+          "genArticle": "086473009226"
+        }
+      ],
+      "visible": false,
+      "concept": ["EVERYDAY FASHION"],
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1086473009",
+        "name": "Double-breasted Jacket",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/84/3d/843d85380a7797d2885bf26f9a32c395157a0544.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9396813135873",
+        "sellingAttributes": ["New Arrival"],
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 39.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 39.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/60/2f/602f1fe7a79f5e9a1b47a48613a5c1db219d34a9.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/60/2f/602f1fe7a79f5e9a1b47a48613a5c1db219d34a9.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA4NjQ3M19ncm91cF8wMDlfZW5fdXM7MTA4NjQ3MzAwOV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "808080",
+          "text": "Gray/plaid",
+          "filterName": "Gray_808080,Multi_000000",
+          "hybrisCode": "07"
+        },
+        "rgbColor": "#848384",
+        "genArticle": "086473009226"
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 363, "filterCode": "XS" },
+        { "orderFilter": 370, "filterCode": "L" },
+        { "orderFilter": 372, "filterCode": "XL" },
+        { "orderFilter": 369, "filterCode": "M" },
+        { "orderFilter": 375, "filterCode": "XXL" },
+        { "orderFilter": 366, "filterCode": "S" }
+      ],
+      "swatches": [],
+      "articleCodes": ["1086473009"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA4NjQ3M19ncm91cF8wMDlfZW5fdXM7MTA4NjQ3MzAwOV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+      "searchEngineProductId": "1086473_group_009_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1086473009.html",
+      "categoryName": "Ladies",
+      "rgbColors": ["#848384"],
+      "articleColorNames": ["Gray/plaid"],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 1,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "ladies_blazers",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "1089107_group_002",
+      "name": "Wide jersey dress",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/f1/91/f19112773d9204bd8381e403c65f4f5a10466d25.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9411740172289",
+      "sellingAttributes": ["New Arrival"],
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "yellowPrice": {
+        "currencyIso": "USD",
+        "value": 31.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 31.99",
+        "type": "YELLOW"
+      },
+      "promotionMarker": {
+        "code": "f8797943-1f99-43b9-a8db-9edee9bc3f6e",
+        "text": "Member Price",
+        "legalText": "Valid on select women's styles for H&M members online only. Final price reflected in checkout."
+      },
+      "articles": [
+        {
+          "code": "1089107002",
+          "name": "Wide jersey dress",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/f1/91/f19112773d9204bd8381e403c65f4f5a10466d25.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9399892901889",
+          "sellingAttributes": ["New Arrival"],
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 39.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 39.99",
+            "type": "WHITE"
+          },
+          "yellowPrice": {
+            "currencyIso": "USD",
+            "value": 31.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 31.99",
+            "type": "YELLOW"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/16/c1/16c16eeb38b14ae96a4de5a0751bbd0b3b33c899.jpg],origin[dam],category[ladies_dresses_camidresses],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/16/c1/16c16eeb38b14ae96a4de5a0751bbd0b3b33c899.jpg],origin[dam],category[ladies_dresses_camidresses],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "markers": [{ "text": "Conscious choice  ", "type": "ENVIRONMENT" }],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA4OTEwN19ncm91cF8wMDJfZW5fdXM7MTA4OTEwNzAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "FFFFFF",
+            "text": "Cream/Zebra print",
+            "filterName": "Multi_000000,White_FFFFFF",
+            "hybrisCode": "11"
+          },
+          "rgbColor": "#EFEFDF",
+          "genArticle": "089107002225",
+          "environmentalMarkers": ["Conscious choice  "]
+        }
+      ],
+      "markers": [{ "text": "Conscious choice  ", "type": "ENVIRONMENT" }],
+      "visible": false,
+      "concept": ["TREND"],
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1089107002",
+        "name": "Wide jersey dress",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/f1/91/f19112773d9204bd8381e403c65f4f5a10466d25.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9399892901889",
+        "sellingAttributes": ["New Arrival"],
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 39.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 39.99",
+          "type": "WHITE"
+        },
+        "yellowPrice": {
+          "currencyIso": "USD",
+          "value": 31.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 31.99",
+          "type": "YELLOW"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/16/c1/16c16eeb38b14ae96a4de5a0751bbd0b3b33c899.jpg],origin[dam],category[ladies_dresses_camidresses],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/16/c1/16c16eeb38b14ae96a4de5a0751bbd0b3b33c899.jpg],origin[dam],category[ladies_dresses_camidresses],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "markers": [{ "text": "Conscious choice  ", "type": "ENVIRONMENT" }],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA4OTEwN19ncm91cF8wMDJfZW5fdXM7MTA4OTEwNzAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "FFFFFF",
+          "text": "Cream/Zebra print",
+          "filterName": "Multi_000000,White_FFFFFF",
+          "hybrisCode": "11"
+        },
+        "rgbColor": "#EFEFDF",
+        "genArticle": "089107002225",
+        "environmentalMarkers": ["Conscious choice  "]
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 363, "filterCode": "XS" },
+        { "orderFilter": 375, "filterCode": "XXL" },
+        { "orderFilter": 370, "filterCode": "L" },
+        { "orderFilter": 366, "filterCode": "S" },
+        { "orderFilter": 369, "filterCode": "M" }
+      ],
+      "swatches": [],
+      "articleCodes": ["1089107002", "1089107001", "1089107003"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA4OTEwN19ncm91cF8wMDJfZW5fdXM7MTA4OTEwNzAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+      "searchEngineProductId": "1089107_group_002_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1089107002.html",
+      "categoryName": "Ladies",
+      "rgbColors": ["#EFEFDF", "#272628", "#2F306B"],
+      "articleColorNames": [
+        "Cream/Zebra print",
+        "Black",
+        "Bright blue/patterned"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 3,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "ladies_dresses_camidresses",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "1002227_group_001",
+      "name": "Cargo Joggers",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/b2/5d/b25df154049847b8cc930f44aa5a0e9175cf4a81.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9332606926849",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1002227001",
+          "name": "Cargo Joggers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/b2/5d/b25df154049847b8cc930f44aa5a0e9175cf4a81.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9306023165953",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 39.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 39.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/2e/33/2e33be4ee98681ff2e0f90729ebc1d562d849e9f.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/2e/33/2e33be4ee98681ff2e0f90729ebc1d562d849e9f.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "markers": [{ "text": "Conscious choice  ", "type": "ENVIRONMENT" }],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAwMjIyN19ncm91cF8wMDFfZW5fdXM7MTAwMjIyNzAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "000000",
+            "text": "Black",
+            "filterName": "Black_000000",
+            "hybrisCode": "09"
+          },
+          "rgbColor": "#272628",
+          "genArticle": "002227001237",
+          "environmentalMarkers": ["Conscious choice  "]
+        }
+      ],
+      "markers": [{ "text": "Conscious choice  ", "type": "ENVIRONMENT" }],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1002227001",
+        "name": "Cargo Joggers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/b2/5d/b25df154049847b8cc930f44aa5a0e9175cf4a81.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9306023165953",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 39.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 39.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/2e/33/2e33be4ee98681ff2e0f90729ebc1d562d849e9f.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/2e/33/2e33be4ee98681ff2e0f90729ebc1d562d849e9f.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "markers": [{ "text": "Conscious choice  ", "type": "ENVIRONMENT" }],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAwMjIyN19ncm91cF8wMDFfZW5fdXM7MTAwMjIyNzAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "000000",
+          "text": "Black",
+          "filterName": "Black_000000",
+          "hybrisCode": "09"
+        },
+        "rgbColor": "#272628",
+        "genArticle": "002227001237",
+        "environmentalMarkers": ["Conscious choice  "]
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 381, "filterCode": "3XL" },
+        { "orderFilter": 369, "filterCode": "M" },
+        { "orderFilter": 366, "filterCode": "S" },
+        { "orderFilter": 370, "filterCode": "L" },
+        { "orderFilter": 372, "filterCode": "XL" },
+        { "orderFilter": 363, "filterCode": "XS" },
+        { "orderFilter": 375, "filterCode": "XXL" }
+      ],
+      "swatches": [],
+      "articleCodes": ["1002227001", "1002227002", "1002227003", "1002227011"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAwMjIyN19ncm91cF8wMDFfZW5fdXM7MTAwMjIyNzAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+      "searchEngineProductId": "1002227_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1002227001.html",
+      "categoryName": "Men",
+      "rgbColors": ["#272628", "#545349", "#54575B", "#A39B86"],
+      "articleColorNames": ["Black", "Khaki green", "Dark gray", "Beige"],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 5,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_trousers_cargo",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "0624684_group_003",
+      "name": "5-pack Slim Fit T-shirts",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "USD",
+        "value": 34.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 34.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/c5/6a/c56aa4d692665cfcbe679ad17327df32f65ae123.jpg],origin[dam],category[men_tshirtstanks_shortsleeve],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9234511003649",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 34.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 34.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "0624684003",
+          "name": "5-pack Slim Fit T-shirts",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/c5/6a/c56aa4d692665cfcbe679ad17327df32f65ae123.jpg],origin[dam],category[men_tshirtstanks_shortsleeve],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9225859006465",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 34.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 34.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/ac/d8/acd8547f1fd193a918122abf4a11194b18d1d9c6.jpg],origin[dam],category[men_tshirtstanks_shortsleeve],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/ac/d8/acd8547f1fd193a918122abf4a11194b18d1d9c6.jpg],origin[dam],category[men_tshirtstanks_shortsleeve],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDYyNDY4NF9ncm91cF8wMDNfZW5fdXM7MDYyNDY4NDAwM19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "FFFFFF",
+            "text": "White/black",
+            "filterName": "Black_000000,White_FFFFFF",
+            "hybrisCode": "10"
+          },
+          "rgbColor": "#FFFFFF",
+          "genArticle": "624684003226"
+        }
+      ],
+      "visible": false,
+      "concept": ["BASICS"],
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "0624684003",
+        "name": "5-pack Slim Fit T-shirts",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/c5/6a/c56aa4d692665cfcbe679ad17327df32f65ae123.jpg],origin[dam],category[men_tshirtstanks_shortsleeve],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9225859006465",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 34.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 34.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/ac/d8/acd8547f1fd193a918122abf4a11194b18d1d9c6.jpg],origin[dam],category[men_tshirtstanks_shortsleeve],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/ac/d8/acd8547f1fd193a918122abf4a11194b18d1d9c6.jpg],origin[dam],category[men_tshirtstanks_shortsleeve],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDYyNDY4NF9ncm91cF8wMDNfZW5fdXM7MDYyNDY4NDAwM19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "FFFFFF",
+          "text": "White/black",
+          "filterName": "Black_000000,White_FFFFFF",
+          "hybrisCode": "10"
+        },
+        "rgbColor": "#FFFFFF",
+        "genArticle": "624684003226"
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 369, "filterCode": "M" },
+        { "orderFilter": 372, "filterCode": "XL" },
+        { "orderFilter": 381, "filterCode": "3XL" },
+        { "orderFilter": 366, "filterCode": "S" },
+        { "orderFilter": 375, "filterCode": "XXL" },
+        { "orderFilter": 370, "filterCode": "L" }
+      ],
+      "swatches": [],
+      "articleCodes": ["0624684003", "0624684001", "0624684016", "0624684017"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDYyNDY4NF9ncm91cF8wMDNfZW5fdXM7MDYyNDY4NDAwM19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+      "searchEngineProductId": "0624684_group_003_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.0624684003.html",
+      "categoryName": "Men",
+      "rgbColors": ["#FFFFFF", "#FFFFFF", "#858C94", "#627763"],
+      "articleColorNames": [
+        "White/black",
+        "White",
+        "Orange/light brown/steel blue",
+        "Green/light blue/white"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 7,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_tshirtstanks_multipacks",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "1012508_group_009",
+      "name": "Corduroy Pants",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "USD",
+        "value": 34.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 34.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/89/b8/89b870c4507005e21044ee17e2155d65a7350056.jpg],origin[dam],category[ladies_trousers_highwaisted],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9424587128833",
+      "sellingAttributes": ["New Arrival"],
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 34.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 34.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1012508009",
+          "name": "Corduroy Pants",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/89/b8/89b870c4507005e21044ee17e2155d65a7350056.jpg],origin[dam],category[ladies_trousers_highwaisted],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9396429881345",
+          "sellingAttributes": ["New Arrival"],
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 34.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 34.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/66/70/6670be54acf722912d8e05614a18a421f620363b.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/66/70/6670be54acf722912d8e05614a18a421f620363b.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAxMjUwOF9ncm91cF8wMDlfZW5fdXM7MTAxMjUwODAwOV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "008000",
+            "text": "Dark teal",
+            "filterName": "Green_008000",
+            "hybrisCode": "93"
+          },
+          "rgbColor": "#374C49"
+        }
+      ],
+      "visible": false,
+      "concept": ["DIVIDED"],
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1012508009",
+        "name": "Corduroy Pants",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/89/b8/89b870c4507005e21044ee17e2155d65a7350056.jpg],origin[dam],category[ladies_trousers_highwaisted],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9396429881345",
+        "sellingAttributes": ["New Arrival"],
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 34.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 34.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/66/70/6670be54acf722912d8e05614a18a421f620363b.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/66/70/6670be54acf722912d8e05614a18a421f620363b.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAxMjUwOF9ncm91cF8wMDlfZW5fdXM7MTAxMjUwODAwOV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "008000",
+          "text": "Dark teal",
+          "filterName": "Green_008000",
+          "hybrisCode": "93"
+        },
+        "rgbColor": "#374C49"
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 6, "filterCode": "2" },
+        { "orderFilter": 22, "filterCode": "18" },
+        { "orderFilter": 16, "filterCode": "12" },
+        { "orderFilter": 12, "filterCode": "8" },
+        { "orderFilter": 10, "filterCode": "6" },
+        { "orderFilter": 14, "filterCode": "10" },
+        { "orderFilter": 20, "filterCode": "16" },
+        { "orderFilter": 8, "filterCode": "4" },
+        { "orderFilter": 4, "filterCode": "0" },
+        { "orderFilter": 18, "filterCode": "14" }
+      ],
+      "swatches": [],
+      "articleCodes": ["1012508009", "1012508001"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAxMjUwOF9ncm91cF8wMDlfZW5fdXM7MTAxMjUwODAwOV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+      "searchEngineProductId": "1012508_group_009_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1012508009.html",
+      "categoryName": "Ladies",
+      "rgbColors": ["#374C49", "#272628"],
+      "articleColorNames": ["Dark teal", "Black"],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "ladies_trousers_highwaisted",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "0871889_group_022",
+      "name": "Wide High Jeans",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "USD",
+        "value": 34.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 34.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/df/7f/df7f291c41a68da244b0973f385dedf10ed2578a.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9317991055361",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 34.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 34.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "0871889022",
+          "name": "Wide High Jeans",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/df/7f/df7f291c41a68da244b0973f385dedf10ed2578a.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9317581062145",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 34.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 34.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/9a/7c/9a7c7fef7caa5f108fe4ff1d686a3870e5f55d34.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/9a/7c/9a7c7fef7caa5f108fe4ff1d686a3870e5f55d34.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "markers": [{ "text": "Conscious choice  ", "type": "ENVIRONMENT" }],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDg3MTg4OV9ncm91cF8wMjJfZW5fdXM7MDg3MTg4OTAyMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "0000FF",
+            "text": "Light denim blue",
+            "filterName": "Blue_0000FF",
+            "hybrisCode": "75"
+          },
+          "rgbColor": "#798DB2",
+          "genArticle": "871889022225",
+          "environmentalMarkers": ["Conscious choice  "]
+        }
+      ],
+      "markers": [{ "text": "Conscious choice  ", "type": "ENVIRONMENT" }],
+      "visible": false,
+      "concept": ["DIVIDED"],
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "0871889022",
+        "name": "Wide High Jeans",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/df/7f/df7f291c41a68da244b0973f385dedf10ed2578a.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9317581062145",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 34.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 34.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/9a/7c/9a7c7fef7caa5f108fe4ff1d686a3870e5f55d34.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/9a/7c/9a7c7fef7caa5f108fe4ff1d686a3870e5f55d34.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "markers": [{ "text": "Conscious choice  ", "type": "ENVIRONMENT" }],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDg3MTg4OV9ncm91cF8wMjJfZW5fdXM7MDg3MTg4OTAyMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "0000FF",
+          "text": "Light denim blue",
+          "filterName": "Blue_0000FF",
+          "hybrisCode": "75"
+        },
+        "rgbColor": "#798DB2",
+        "genArticle": "871889022225",
+        "environmentalMarkers": ["Conscious choice  "]
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 14, "filterCode": "10" },
+        { "orderFilter": 20, "filterCode": "16" },
+        { "orderFilter": 18, "filterCode": "14" },
+        { "orderFilter": 22, "filterCode": "18" },
+        { "orderFilter": 16, "filterCode": "12" },
+        { "orderFilter": 10, "filterCode": "6" }
+      ],
+      "swatches": [],
+      "articleCodes": ["0871889022", "0871889028", "0871889030", "0871889031"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDg3MTg4OV9ncm91cF8wMjJfZW5fdXM7MDg3MTg4OTAyMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+      "searchEngineProductId": "0871889_group_022_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.0871889022.html",
+      "categoryName": "Ladies",
+      "rgbColors": ["#798DB2", "#7D9FD9", "#C4CAD7", "#45464A"],
+      "articleColorNames": [
+        "Light denim blue",
+        "Light denim blue",
+        "Pale denim blue",
+        "Dark gray"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 4,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "ladies_jeans_wide",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "0997065_group_001",
+      "name": "Skinny Fit Cargo Joggers",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "USD",
+        "value": 34.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 34.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/1f/33/1f33d1935d739050e96e44055eab1118f51448f2.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9329227235329",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 34.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 34.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "0997065001",
+          "name": "Skinny Fit Cargo Joggers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/1f/33/1f33d1935d739050e96e44055eab1118f51448f2.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9310398709761",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 34.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 34.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/db/af/dbaf8736c18f12da83fae65ecf02a35efc386616.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/db/af/dbaf8736c18f12da83fae65ecf02a35efc386616.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDk5NzA2NV9ncm91cF8wMDFfZW5fdXM7MDk5NzA2NTAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "000000",
+            "text": "Black",
+            "filterName": "Black_000000",
+            "hybrisCode": "09"
+          },
+          "rgbColor": "#272628",
+          "genArticle": "997065001226"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "0997065001",
+        "name": "Skinny Fit Cargo Joggers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/1f/33/1f33d1935d739050e96e44055eab1118f51448f2.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9310398709761",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 34.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 34.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/db/af/dbaf8736c18f12da83fae65ecf02a35efc386616.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/db/af/dbaf8736c18f12da83fae65ecf02a35efc386616.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDk5NzA2NV9ncm91cF8wMDFfZW5fdXM7MDk5NzA2NTAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "000000",
+          "text": "Black",
+          "filterName": "Black_000000",
+          "hybrisCode": "09"
+        },
+        "rgbColor": "#272628",
+        "genArticle": "997065001226"
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 369, "filterCode": "M" },
+        { "orderFilter": 381, "filterCode": "3XL" },
+        { "orderFilter": 375, "filterCode": "XXL" },
+        { "orderFilter": 372, "filterCode": "XL" },
+        { "orderFilter": 366, "filterCode": "S" },
+        { "orderFilter": 370, "filterCode": "L" }
+      ],
+      "swatches": [],
+      "articleCodes": ["0997065001", "0997065002", "0997065003", "0997065008"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDk5NzA2NV9ncm91cF8wMDFfZW5fdXM7MDk5NzA2NTAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+      "searchEngineProductId": "0997065_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.0997065001.html",
+      "categoryName": "Men",
+      "rgbColors": ["#272628", "#3E3D36", "#A49B8B", "#3F3F42"],
+      "articleColorNames": ["Black", "Dark khaki green", "Beige", "Dark gray"],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 6,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_trousers_cargo",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "0938930_group_018",
+      "name": "Jacquard-weave Handbag",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "USD",
+        "value": 34.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 34.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/4b/51/4b51580cd66fd9186691d7583d31571034a5d168.jpg],origin[dam],category[ladies_accessories_bags_handbags],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9425734991873",
+      "sellingAttributes": ["New Arrival"],
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 34.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 34.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "0938930018",
+          "name": "Jacquard-weave Handbag",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/4b/51/4b51580cd66fd9186691d7583d31571034a5d168.jpg],origin[dam],category[ladies_accessories_bags_handbags],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9399372447745",
+          "sellingAttributes": ["New Arrival"],
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 34.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 34.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/5b/d0/5bd00a1673d665be13b03191f162fc313c50be3c.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/5b/d0/5bd00a1673d665be13b03191f162fc313c50be3c.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDkzODkzMF9ncm91cF8wMThfZW5fdXM7MDkzODkzMDAxOF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "000000",
+            "text": "Black/houndstooth-patterned",
+            "filterName": "Beige_F5F5DC,Black_000000",
+            "hybrisCode": "09"
+          },
+          "rgbColor": "#272628",
+          "genArticle": "938930018226"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "0938930018",
+        "name": "Jacquard-weave Handbag",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/4b/51/4b51580cd66fd9186691d7583d31571034a5d168.jpg],origin[dam],category[ladies_accessories_bags_handbags],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9399372447745",
+        "sellingAttributes": ["New Arrival"],
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 34.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 34.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/5b/d0/5bd00a1673d665be13b03191f162fc313c50be3c.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/5b/d0/5bd00a1673d665be13b03191f162fc313c50be3c.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDkzODkzMF9ncm91cF8wMThfZW5fdXM7MDkzODkzMDAxOF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "000000",
+          "text": "Black/houndstooth-patterned",
+          "filterName": "Beige_F5F5DC,Black_000000",
+          "hybrisCode": "09"
+        },
+        "rgbColor": "#272628",
+        "genArticle": "938930018226"
+      },
+      "sale": false,
+      "variantSizes": [],
+      "swatches": [],
+      "articleCodes": ["0938930018", "0938930010", "0938930013"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDkzODkzMF9ncm91cF8wMThfZW5fdXM7MDkzODkzMDAxOF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+      "searchEngineProductId": "0938930_group_018_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.0938930018.html",
+      "categoryName": "Ladies",
+      "rgbColors": ["#272628", "#272628", "#272628"],
+      "articleColorNames": [
+        "Black/houndstooth-patterned",
+        "Black/patterned",
+        "Light beige/leopard print"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 3,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "ladies_accessories_bags_handbags",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "1076519_group_001",
+      "name": "Wide-leg Cargo Pants",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "USD",
+        "value": 34.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 34.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/20/3e/203e9b771650021d5e214b768ffc28cf83dfbf9e.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9416143929345",
+      "sellingAttributes": ["New Arrival"],
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 34.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 34.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1076519001",
+          "name": "Wide-leg Cargo Pants",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/20/3e/203e9b771650021d5e214b768ffc28cf83dfbf9e.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9394189533185",
+          "sellingAttributes": ["New Arrival"],
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 34.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 34.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/2b/20/2b206a8973fc95daf4cf9fd58c0d121b96504ca4.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/2b/20/2b206a8973fc95daf4cf9fd58c0d121b96504ca4.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "markers": [{ "text": "Conscious choice  ", "type": "ENVIRONMENT" }],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA3NjUxOV9ncm91cF8wMDFfZW5fdXM7MTA3NjUxOTAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "F5F5DC",
+            "text": "Khaki green",
+            "filterName": "Green_008000",
+            "hybrisCode": "14"
+          },
+          "rgbColor": "#645E48",
+          "genArticle": "076519001226",
+          "environmentalMarkers": ["Conscious choice  "]
+        }
+      ],
+      "markers": [{ "text": "Conscious choice  ", "type": "ENVIRONMENT" }],
+      "visible": false,
+      "concept": ["EVERYDAY FASHION"],
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1076519001",
+        "name": "Wide-leg Cargo Pants",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/20/3e/203e9b771650021d5e214b768ffc28cf83dfbf9e.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9394189533185",
+        "sellingAttributes": ["New Arrival"],
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 34.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 34.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/2b/20/2b206a8973fc95daf4cf9fd58c0d121b96504ca4.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/2b/20/2b206a8973fc95daf4cf9fd58c0d121b96504ca4.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "markers": [{ "text": "Conscious choice  ", "type": "ENVIRONMENT" }],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA3NjUxOV9ncm91cF8wMDFfZW5fdXM7MTA3NjUxOTAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "F5F5DC",
+          "text": "Khaki green",
+          "filterName": "Green_008000",
+          "hybrisCode": "14"
+        },
+        "rgbColor": "#645E48",
+        "genArticle": "076519001226",
+        "environmentalMarkers": ["Conscious choice  "]
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 16, "filterCode": "12" },
+        { "orderFilter": 4, "filterCode": "0" },
+        { "orderFilter": 22, "filterCode": "18" },
+        { "orderFilter": 20, "filterCode": "16" },
+        { "orderFilter": 6, "filterCode": "2" },
+        { "orderFilter": 12, "filterCode": "8" },
+        { "orderFilter": 14, "filterCode": "10" },
+        { "orderFilter": 18, "filterCode": "14" },
+        { "orderFilter": 8, "filterCode": "4" },
+        { "orderFilter": 54, "filterCode": "20" },
+        { "orderFilter": 10, "filterCode": "6" }
+      ],
+      "swatches": [],
+      "articleCodes": ["1076519001", "1076519004"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA3NjUxOV9ncm91cF8wMDFfZW5fdXM7MTA3NjUxOTAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+      "searchEngineProductId": "1076519_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1076519001.html",
+      "categoryName": "Ladies",
+      "rgbColors": ["#645E48", "#494A4F"],
+      "articleColorNames": ["Khaki green", "Dark gray"],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "ladies_trousers_cargo",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "1011909_group_017",
+      "name": "Ankle-length Pants",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "USD",
+        "value": 29.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 29.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/99/1d/991d26fac464fb3c9e58a1c45761ddf10dcf4ed5.jpg],origin[dam],category[ladies_sport_sportaccessories],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9426445860865",
+      "sellingAttributes": ["New Arrival"],
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 29.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 29.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1011909017",
+          "name": "Ankle-length Pants",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/99/1d/991d26fac464fb3c9e58a1c45761ddf10dcf4ed5.jpg],origin[dam],category[ladies_sport_sportaccessories],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9402987511809",
+          "sellingAttributes": ["New Arrival"],
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 29.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 29.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/6c/0c/6c0c273682b7039053af59fdf829c06270e6f616.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/6c/0c/6c0c273682b7039053af59fdf829c06270e6f616.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "markers": [{ "text": "Conscious choice  ", "type": "ENVIRONMENT" }],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAxMTkwOV9ncm91cF8wMTdfZW5fdXM7MTAxMTkwOTAxN19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "808080",
+            "text": "Gray",
+            "filterName": "Gray_808080",
+            "hybrisCode": "06"
+          },
+          "rgbColor": "#AAA9AB",
+          "environmentalMarkers": ["Conscious choice  "]
+        }
+      ],
+      "markers": [{ "text": "Conscious choice  ", "type": "ENVIRONMENT" }],
+      "visible": false,
+      "concept": ["EVERYDAY FASHION"],
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1011909017",
+        "name": "Ankle-length Pants",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/99/1d/991d26fac464fb3c9e58a1c45761ddf10dcf4ed5.jpg],origin[dam],category[ladies_sport_sportaccessories],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9402987511809",
+        "sellingAttributes": ["New Arrival"],
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 29.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 29.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/6c/0c/6c0c273682b7039053af59fdf829c06270e6f616.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/6c/0c/6c0c273682b7039053af59fdf829c06270e6f616.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "markers": [{ "text": "Conscious choice  ", "type": "ENVIRONMENT" }],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAxMTkwOV9ncm91cF8wMTdfZW5fdXM7MTAxMTkwOTAxN19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "808080",
+          "text": "Gray",
+          "filterName": "Gray_808080",
+          "hybrisCode": "06"
+        },
+        "rgbColor": "#AAA9AB",
+        "environmentalMarkers": ["Conscious choice  "]
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 8, "filterCode": "4" },
+        { "orderFilter": 18, "filterCode": "14" },
+        { "orderFilter": 20, "filterCode": "16" },
+        { "orderFilter": 6, "filterCode": "2" },
+        { "orderFilter": 4, "filterCode": "0" }
+      ],
+      "swatches": [],
+      "articleCodes": ["1011909017"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAxMTkwOV9ncm91cF8wMTdfZW5fdXM7MTAxMTkwOTAxN19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+      "searchEngineProductId": "1011909_group_017_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1011909017.html",
+      "categoryName": "Ladies",
+      "rgbColors": ["#AAA9AB"],
+      "articleColorNames": ["Gray"],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 1,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "ladies_trousers_highwaisted",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "1042555_group_001",
+      "name": "90s Baggy Ultra High Waist Jeans",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "USD",
+        "value": 29.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 29.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/e2/89/e289b92577daa1d08edf89bf28500823bfa51966.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9365675573249",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 29.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 29.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1042555001",
+          "name": "90s Baggy Ultra High Waist Jeans",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/e2/89/e289b92577daa1d08edf89bf28500823bfa51966.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9344529170433",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 29.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 29.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/17/e7/17e7f84b9be92a5a1eece9d187dc12bce96959d8.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/17/e7/17e7f84b9be92a5a1eece9d187dc12bce96959d8.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "markers": [{ "text": "Conscious choice  ", "type": "ENVIRONMENT" }],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA0MjU1NV9ncm91cF8wMDFfZW5fdXM7MTA0MjU1NTAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "000000",
+            "text": "Black",
+            "filterName": "Black_000000",
+            "hybrisCode": "09"
+          },
+          "rgbColor": "#272628",
+          "genArticle": "042555001225",
+          "environmentalMarkers": ["Conscious choice  "]
+        }
+      ],
+      "markers": [{ "text": "Conscious choice  ", "type": "ENVIRONMENT" }],
+      "visible": false,
+      "concept": ["DENIM"],
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1042555001",
+        "name": "90s Baggy Ultra High Waist Jeans",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/e2/89/e289b92577daa1d08edf89bf28500823bfa51966.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9344529170433",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 29.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 29.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/17/e7/17e7f84b9be92a5a1eece9d187dc12bce96959d8.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/17/e7/17e7f84b9be92a5a1eece9d187dc12bce96959d8.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "markers": [{ "text": "Conscious choice  ", "type": "ENVIRONMENT" }],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA0MjU1NV9ncm91cF8wMDFfZW5fdXM7MTA0MjU1NTAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "000000",
+          "text": "Black",
+          "filterName": "Black_000000",
+          "hybrisCode": "09"
+        },
+        "rgbColor": "#272628",
+        "genArticle": "042555001225",
+        "environmentalMarkers": ["Conscious choice  "]
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 16, "filterCode": "12" },
+        { "orderFilter": 4, "filterCode": "0" },
+        { "orderFilter": 14, "filterCode": "10" },
+        { "orderFilter": 6, "filterCode": "2" },
+        { "orderFilter": 18, "filterCode": "14" },
+        { "orderFilter": 12, "filterCode": "8" },
+        { "orderFilter": 8, "filterCode": "4" },
+        { "orderFilter": 10, "filterCode": "6" }
+      ],
+      "swatches": [],
+      "articleCodes": ["1042555001", "1042555003", "1042555004", "1042555025"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA0MjU1NV9ncm91cF8wMDFfZW5fdXM7MTA0MjU1NTAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+      "searchEngineProductId": "1042555_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1042555001.html",
+      "categoryName": "Ladies",
+      "rgbColors": ["#272628", "#79829D", "#8898AC", "#79829D"],
+      "articleColorNames": [
+        "Black",
+        "Denim blue",
+        "Light denim blue",
+        "Denim blue"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 4,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "ladies_jeans_baggy",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "0983297_group_010",
+      "name": "2-pack Regular Fit Sweatshorts",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "USD",
+        "value": 24.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 24.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/4e/ae/4eae0051f4fe120aa3d1c2c6026849f5dc6aba77.jpg],origin[dam],category[men_shorts],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9395141705729",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 24.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 24.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "0983297010",
+          "name": "2-pack Regular Fit Sweatshorts",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/4e/ae/4eae0051f4fe120aa3d1c2c6026849f5dc6aba77.jpg],origin[dam],category[men_shorts],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9357582630913",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 24.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 24.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/4e/ae/4eae0051f4fe120aa3d1c2c6026849f5dc6aba77.jpg],origin[dam],category[men_shorts],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/4e/ae/4eae0051f4fe120aa3d1c2c6026849f5dc6aba77.jpg],origin[dam],category[men_shorts],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDk4MzI5N19ncm91cF8wMTBfZW5fdXM7MDk4MzI5NzAxMF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "808080",
+            "text": "Black/gray melange",
+            "filterName": "Black_000000,Gray_808080",
+            "hybrisCode": "07"
+          },
+          "rgbColor": "#AFAFAF",
+          "genArticle": "983297010225"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "0983297010",
+        "name": "2-pack Regular Fit Sweatshorts",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/4e/ae/4eae0051f4fe120aa3d1c2c6026849f5dc6aba77.jpg],origin[dam],category[men_shorts],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9357582630913",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 24.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 24.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/4e/ae/4eae0051f4fe120aa3d1c2c6026849f5dc6aba77.jpg],origin[dam],category[men_shorts],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/4e/ae/4eae0051f4fe120aa3d1c2c6026849f5dc6aba77.jpg],origin[dam],category[men_shorts],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDk4MzI5N19ncm91cF8wMTBfZW5fdXM7MDk4MzI5NzAxMF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "808080",
+          "text": "Black/gray melange",
+          "filterName": "Black_000000,Gray_808080",
+          "hybrisCode": "07"
+        },
+        "rgbColor": "#AFAFAF",
+        "genArticle": "983297010225"
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 372, "filterCode": "XL" },
+        { "orderFilter": 375, "filterCode": "XXL" },
+        { "orderFilter": 369, "filterCode": "M" },
+        { "orderFilter": 370, "filterCode": "L" },
+        { "orderFilter": 363, "filterCode": "XS" },
+        { "orderFilter": 381, "filterCode": "3XL" }
+      ],
+      "swatches": [],
+      "articleCodes": ["0983297010", "0983297007", "0983297008", "0983297009"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDk4MzI5N19ncm91cF8wMTBfZW5fdXM7MDk4MzI5NzAxMF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+      "searchEngineProductId": "0983297_group_010_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.0983297010.html",
+      "categoryName": "Men",
+      "rgbColors": ["#AFAFAF", "#7F866F", "#9EACBD", "#928DA0"],
+      "articleColorNames": [
+        "Black/gray melange",
+        "Khaki green/blue-gray",
+        "Light beige/light blue",
+        "Light purple/blue-gray"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 6,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shorts",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "1078088_group_001",
+      "name": "Wide-leg Twill Pants",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "USD",
+        "value": 24.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 24.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/ee/b0/eeb045b34e379ca91c0fc762de0ec290ecebca61.jpg],origin[dam],category[ladies_trousers_highwaisted],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9426435538945",
+      "sellingAttributes": ["New Arrival"],
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 24.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 24.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1078088001",
+          "name": "Wide-leg Twill Pants",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/ee/b0/eeb045b34e379ca91c0fc762de0ec290ecebca61.jpg],origin[dam],category[ladies_trousers_highwaisted],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9396825423873",
+          "sellingAttributes": ["New Arrival"],
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 24.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 24.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/53/5c/535c566ce7998de55fbb034a9c404010ab893e69.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/53/5c/535c566ce7998de55fbb034a9c404010ab893e69.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "markers": [{ "text": "Conscious choice  ", "type": "ENVIRONMENT" }],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA3ODA4OF9ncm91cF8wMDFfZW5fdXM7MTA3ODA4ODAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "000000",
+            "text": "Black",
+            "filterName": "Black_000000",
+            "hybrisCode": "09"
+          },
+          "rgbColor": "#272628",
+          "genArticle": "078088001226",
+          "environmentalMarkers": ["Conscious choice  "]
+        }
+      ],
+      "markers": [{ "text": "Conscious choice  ", "type": "ENVIRONMENT" }],
+      "visible": false,
+      "concept": ["DIVIDED"],
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1078088001",
+        "name": "Wide-leg Twill Pants",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/ee/b0/eeb045b34e379ca91c0fc762de0ec290ecebca61.jpg],origin[dam],category[ladies_trousers_highwaisted],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9396825423873",
+        "sellingAttributes": ["New Arrival"],
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 24.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 24.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/53/5c/535c566ce7998de55fbb034a9c404010ab893e69.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/53/5c/535c566ce7998de55fbb034a9c404010ab893e69.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "markers": [{ "text": "Conscious choice  ", "type": "ENVIRONMENT" }],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA3ODA4OF9ncm91cF8wMDFfZW5fdXM7MTA3ODA4ODAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "000000",
+          "text": "Black",
+          "filterName": "Black_000000",
+          "hybrisCode": "09"
+        },
+        "rgbColor": "#272628",
+        "genArticle": "078088001226",
+        "environmentalMarkers": ["Conscious choice  "]
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 363, "filterCode": "XS" },
+        { "orderFilter": 366, "filterCode": "S" },
+        { "orderFilter": 369, "filterCode": "M" },
+        { "orderFilter": 357, "filterCode": "XXS" },
+        { "orderFilter": 370, "filterCode": "L" },
+        { "orderFilter": 372, "filterCode": "XL" }
+      ],
+      "swatches": [],
+      "articleCodes": ["1078088001", "1078088002"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA3ODA4OF9ncm91cF8wMDFfZW5fdXM7MTA3ODA4ODAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+      "searchEngineProductId": "1078088_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1078088001.html",
+      "categoryName": "Ladies",
+      "rgbColors": ["#272628", "#413B32"],
+      "articleColorNames": ["Black", "Beige/plaid"],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "ladies_trousers_highwaisted",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "1087151_group_003",
+      "name": "Fine-knit Collared Sweater",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "USD",
+        "value": 24.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 24.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/fc/dd/fcdd503bcc3136cfd6952525b3c28a692691b07e.jpg],origin[dam],category[ladies_cardigansjumpers_jumpers],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9426951143425",
+      "sellingAttributes": ["New Arrival"],
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 24.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 24.99",
+        "type": "WHITE"
+      },
+      "yellowPrice": {
+        "currencyIso": "USD",
+        "value": 19.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 19.99",
+        "type": "YELLOW"
+      },
+      "promotionMarker": {
+        "code": "f8797943-1f99-43b9-a8db-9edee9bc3f6e",
+        "text": "Member Price",
+        "legalText": "Valid on select women's styles for H&M members online only. Final price reflected in checkout."
+      },
+      "articles": [
+        {
+          "code": "1087151003",
+          "name": "Fine-knit Collared Sweater",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/fc/dd/fcdd503bcc3136cfd6952525b3c28a692691b07e.jpg],origin[dam],category[ladies_cardigansjumpers_jumpers],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9394081824769",
+          "sellingAttributes": ["New Arrival"],
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 24.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 24.99",
+            "type": "WHITE"
+          },
+          "yellowPrice": {
+            "currencyIso": "USD",
+            "value": 19.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 19.99",
+            "type": "YELLOW"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/33/3e/333e29d0efa860ab119852bee6c31189867f382a.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/33/3e/333e29d0efa860ab119852bee6c31189867f382a.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA4NzE1MV9ncm91cF8wMDNfZW5fdXM7MTA4NzE1MTAwM19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "A52A2A",
+            "text": "Sand beige melange",
+            "filterName": "Beige_F5F5DC",
+            "hybrisCode": "16"
+          },
+          "rgbColor": "#A9A398"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1087151003",
+        "name": "Fine-knit Collared Sweater",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/fc/dd/fcdd503bcc3136cfd6952525b3c28a692691b07e.jpg],origin[dam],category[ladies_cardigansjumpers_jumpers],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9394081824769",
+        "sellingAttributes": ["New Arrival"],
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 24.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 24.99",
+          "type": "WHITE"
+        },
+        "yellowPrice": {
+          "currencyIso": "USD",
+          "value": 19.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 19.99",
+          "type": "YELLOW"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/33/3e/333e29d0efa860ab119852bee6c31189867f382a.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/33/3e/333e29d0efa860ab119852bee6c31189867f382a.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA4NzE1MV9ncm91cF8wMDNfZW5fdXM7MTA4NzE1MTAwM19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "A52A2A",
+          "text": "Sand beige melange",
+          "filterName": "Beige_F5F5DC",
+          "hybrisCode": "16"
+        },
+        "rgbColor": "#A9A398"
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 370, "filterCode": "L" },
+        { "orderFilter": 369, "filterCode": "M" },
+        { "orderFilter": 366, "filterCode": "S" },
+        { "orderFilter": 363, "filterCode": "XS" },
+        { "orderFilter": 375, "filterCode": "XXL" },
+        { "orderFilter": 372, "filterCode": "XL" }
+      ],
+      "swatches": [],
+      "articleCodes": ["1087151003", "1087151002"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA4NzE1MV9ncm91cF8wMDNfZW5fdXM7MTA4NzE1MTAwM19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+      "searchEngineProductId": "1087151_group_003_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1087151003.html",
+      "categoryName": "Ladies",
+      "rgbColors": ["#A9A398", "#00574B"],
+      "articleColorNames": ["Sand beige melange", "Cream/green striped"],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "ladies_cardigansjumpers_jumpers",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "0929453_group_001",
+      "name": "Sneakers",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "USD",
+        "value": 24.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 24.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/6a/7a/6a7acae0faf986f4e1b5647284a93bce8d34c1fc.jpg],origin[dam],category[kids_boy8y_shoes_Sneakers],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9262544093185",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 24.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 24.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "0929453001",
+          "name": "Sneakers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/6a/7a/6a7acae0faf986f4e1b5647284a93bce8d34c1fc.jpg],origin[dam],category[kids_boy8y_shoes_Sneakers],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9249754218497",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 24.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 24.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/6a/7a/6a7acae0faf986f4e1b5647284a93bce8d34c1fc.jpg],origin[dam],category[kids_boy8y_shoes_Sneakers],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/6a/7a/6a7acae0faf986f4e1b5647284a93bce8d34c1fc.jpg],origin[dam],category[kids_boy8y_shoes_Sneakers],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDkyOTQ1M19ncm91cF8wMDFfZW5fdXM7MDkyOTQ1MzAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "FFFFFF",
+            "text": "White",
+            "filterName": "White_FFFFFF",
+            "hybrisCode": "10"
+          },
+          "rgbColor": "#ECEDEC",
+          "genArticle": "929453001226"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "0929453001",
+        "name": "Sneakers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/6a/7a/6a7acae0faf986f4e1b5647284a93bce8d34c1fc.jpg],origin[dam],category[kids_boy8y_shoes_Sneakers],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9249754218497",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 24.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 24.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/6a/7a/6a7acae0faf986f4e1b5647284a93bce8d34c1fc.jpg],origin[dam],category[kids_boy8y_shoes_Sneakers],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/6a/7a/6a7acae0faf986f4e1b5647284a93bce8d34c1fc.jpg],origin[dam],category[kids_boy8y_shoes_Sneakers],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDkyOTQ1M19ncm91cF8wMDFfZW5fdXM7MDkyOTQ1MzAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "FFFFFF",
+          "text": "White",
+          "filterName": "White_FFFFFF",
+          "hybrisCode": "10"
+        },
+        "rgbColor": "#ECEDEC",
+        "genArticle": "929453001226"
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 42, "filterCode": "12.5" },
+        { "orderFilter": 14, "filterCode": "10" },
+        { "orderFilter": 5, "filterCode": "1" },
+        { "orderFilter": 13, "filterCode": "9" },
+        { "orderFilter": 6, "filterCode": "2" },
+        { "orderFilter": 15, "filterCode": "11" },
+        { "orderFilter": 16, "filterCode": "12" },
+        { "orderFilter": 28, "filterCode": "2.5" },
+        { "orderFilter": 43, "filterCode": "13.5" },
+        { "orderFilter": 38, "filterCode": "8.5" },
+        { "orderFilter": 36, "filterCode": "7.5" }
+      ],
+      "swatches": [],
+      "articleCodes": ["0929453001", "0929453003"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDkyOTQ1M19ncm91cF8wMDFfZW5fdXM7MDkyOTQ1MzAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+      "searchEngineProductId": "0929453_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.0929453001.html",
+      "categoryName": "Kids",
+      "rgbColors": ["#ECEDEC", "#3D495E"],
+      "articleColorNames": ["White", "Blue/Future Dinos"],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "kids_boys_shoes_trainers",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "1087151_group_002",
+      "name": "Fine-knit Collared Sweater",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "USD",
+        "value": 24.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 24.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/b1/e1/b1e1e0d77cf6500bcbd103652be46185db1f802e.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9423828451329",
+      "sellingAttributes": ["New Arrival"],
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 24.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 24.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1087151002",
+          "name": "Fine-knit Collared Sweater",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/b1/e1/b1e1e0d77cf6500bcbd103652be46185db1f802e.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9397527052289",
+          "sellingAttributes": ["New Arrival"],
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 24.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 24.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/b1/e1/b1e1e0d77cf6500bcbd103652be46185db1f802e.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/b1/e1/b1e1e0d77cf6500bcbd103652be46185db1f802e.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA4NzE1MV9ncm91cF8wMDJfZW5fdXM7MTA4NzE1MTAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "008000",
+            "text": "Cream/green striped",
+            "filterName": "Multi_000000,White_FFFFFF",
+            "hybrisCode": "96"
+          },
+          "rgbColor": "#00574B"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1087151002",
+        "name": "Fine-knit Collared Sweater",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/b1/e1/b1e1e0d77cf6500bcbd103652be46185db1f802e.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9397527052289",
+        "sellingAttributes": ["New Arrival"],
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 24.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 24.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/b1/e1/b1e1e0d77cf6500bcbd103652be46185db1f802e.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/b1/e1/b1e1e0d77cf6500bcbd103652be46185db1f802e.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA4NzE1MV9ncm91cF8wMDJfZW5fdXM7MTA4NzE1MTAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "008000",
+          "text": "Cream/green striped",
+          "filterName": "Multi_000000,White_FFFFFF",
+          "hybrisCode": "96"
+        },
+        "rgbColor": "#00574B"
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 366, "filterCode": "S" },
+        { "orderFilter": 369, "filterCode": "M" }
+      ],
+      "swatches": [],
+      "articleCodes": ["1087151002", "1087151003"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA4NzE1MV9ncm91cF8wMDJfZW5fdXM7MTA4NzE1MTAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+      "searchEngineProductId": "1087151_group_002_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1087151002.html",
+      "categoryName": "Ladies",
+      "rgbColors": ["#00574B", "#A9A398"],
+      "articleColorNames": ["Cream/green striped", "Sand beige melange"],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "ladies_cardigansjumpers_jumpers",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "0751471_group_042",
+      "name": "Slacks",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "USD",
+        "value": 19.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 19.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/99/db/99db7370652333bef35cd7573c42752888cd05cd.jpg],origin[dam],category[ladies_trousers_chinosslacks],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9247972032513",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 19.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 19.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "0751471042",
+          "name": "Slacks",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/99/db/99db7370652333bef35cd7573c42752888cd05cd.jpg],origin[dam],category[ladies_trousers_chinosslacks],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9246945017857",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 19.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 19.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/89/25/89256822e0b6e730f155d3bfba87e739ee4729eb.jpg],origin[dam],category[ladies_trousers_chinosslacks],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/89/25/89256822e0b6e730f155d3bfba87e739ee4729eb.jpg],origin[dam],category[ladies_trousers_chinosslacks],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDc1MTQ3MV9ncm91cF8wNDJfZW5fdXM7MDc1MTQ3MTA0Ml9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "0000FF",
+            "text": "Navy blue",
+            "filterName": "Blue_0000FF",
+            "hybrisCode": "76"
+          },
+          "rgbColor": "#2B2D34",
+          "genArticle": "751471042225"
+        }
+      ],
+      "visible": false,
+      "concept": ["EVERYDAY FASHION"],
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "0751471042",
+        "name": "Slacks",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/99/db/99db7370652333bef35cd7573c42752888cd05cd.jpg],origin[dam],category[ladies_trousers_chinosslacks],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9246945017857",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 19.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 19.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/89/25/89256822e0b6e730f155d3bfba87e739ee4729eb.jpg],origin[dam],category[ladies_trousers_chinosslacks],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/89/25/89256822e0b6e730f155d3bfba87e739ee4729eb.jpg],origin[dam],category[ladies_trousers_chinosslacks],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDc1MTQ3MV9ncm91cF8wNDJfZW5fdXM7MDc1MTQ3MTA0Ml9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "0000FF",
+          "text": "Navy blue",
+          "filterName": "Blue_0000FF",
+          "hybrisCode": "76"
+        },
+        "rgbColor": "#2B2D34",
+        "genArticle": "751471042225"
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 8, "filterCode": "4" },
+        { "orderFilter": 16, "filterCode": "12" },
+        { "orderFilter": 12, "filterCode": "8" },
+        { "orderFilter": 10, "filterCode": "6" },
+        { "orderFilter": 4, "filterCode": "0" },
+        { "orderFilter": 6, "filterCode": "2" },
+        { "orderFilter": 18, "filterCode": "14" },
+        { "orderFilter": 20, "filterCode": "16" },
+        { "orderFilter": 22, "filterCode": "18" },
+        { "orderFilter": 54, "filterCode": "20" },
+        { "orderFilter": 14, "filterCode": "10" }
+      ],
+      "swatches": [],
+      "articleCodes": ["0751471042", "0751471087"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDc1MTQ3MV9ncm91cF8wNDJfZW5fdXM7MDc1MTQ3MTA0Ml9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+      "searchEngineProductId": "0751471_group_042_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.0751471042.html",
+      "categoryName": "Ladies",
+      "rgbColors": ["#2B2D34", "#938976"],
+      "articleColorNames": ["Navy blue", "Beige"],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "ladies_trousers_chinosslacks",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "1100174_group_001",
+      "name": "Fleece Shacket",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "USD",
+        "value": 19.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 19.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/ad/5c/ad5c733d23f2e5fe3bb0d8534103a955e7621bdc.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9423445196801",
+      "sellingAttributes": ["New Arrival"],
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 19.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 19.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1100174001",
+          "name": "Fleece Shacket",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/ad/5c/ad5c733d23f2e5fe3bb0d8534103a955e7621bdc.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9403006517249",
+          "sellingAttributes": ["New Arrival"],
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 19.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 19.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/ad/5c/ad5c733d23f2e5fe3bb0d8534103a955e7621bdc.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/ad/5c/ad5c733d23f2e5fe3bb0d8534103a955e7621bdc.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEwMDE3NF9ncm91cF8wMDFfZW5fdXM7MTEwMDE3NDAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "808080",
+            "text": "Natural white/Checked",
+            "filterName": "Multi_000000,White_FFFFFF",
+            "hybrisCode": "06"
+          },
+          "rgbColor": "#9C9C9A"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1100174001",
+        "name": "Fleece Shacket",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/ad/5c/ad5c733d23f2e5fe3bb0d8534103a955e7621bdc.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9403006517249",
+        "sellingAttributes": ["New Arrival"],
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 19.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 19.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/ad/5c/ad5c733d23f2e5fe3bb0d8534103a955e7621bdc.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/ad/5c/ad5c733d23f2e5fe3bb0d8534103a955e7621bdc.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEwMDE3NF9ncm91cF8wMDFfZW5fdXM7MTEwMDE3NDAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "808080",
+          "text": "Natural white/Checked",
+          "filterName": "Multi_000000,White_FFFFFF",
+          "hybrisCode": "06"
+        },
+        "rgbColor": "#9C9C9A"
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 3146, "filterCode": "12M (9-12M)" },
+        { "orderFilter": 3145, "filterCode": "9M (6-9M)" },
+        { "orderFilter": 3149, "filterCode": "3T (2-3Y)" },
+        { "orderFilter": 3144, "filterCode": "6M (4-6M)" },
+        { "orderFilter": 3147, "filterCode": "18M (12-18M)" },
+        { "orderFilter": 3150, "filterCode": "4T (3-4Y)" },
+        { "orderFilter": 3148, "filterCode": "2T (1½-2Y)" }
+      ],
+      "swatches": [],
+      "articleCodes": ["1100174001"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEwMDE3NF9ncm91cF8wMDFfZW5fdXM7MTEwMDE3NDAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+      "searchEngineProductId": "1100174_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1100174001.html",
+      "categoryName": "Kids",
+      "rgbColors": ["#9C9C9A"],
+      "articleColorNames": ["Natural white/Checked"],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 1,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "kids_baby_boy_outerwear_jacketscoats",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "0751471_group_087",
+      "name": "Slacks",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "USD",
+        "value": 19.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 19.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/18/eb/18eb64b2796016ba869ebbdd5c2a752bca269e1b.jpg],origin[dam],category[ladies_trousers_chinosslacks],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9425478451201",
+      "sellingAttributes": ["New Arrival"],
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 19.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 19.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "0751471087",
+          "name": "Slacks",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/18/eb/18eb64b2796016ba869ebbdd5c2a752bca269e1b.jpg],origin[dam],category[ladies_trousers_chinosslacks],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9383943176193",
+          "sellingAttributes": ["New Arrival"],
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 19.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 19.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/b1/33/b13343998e118ed04da0f7d092d6de56c3c886d4.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/b1/33/b13343998e118ed04da0f7d092d6de56c3c886d4.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "markers": [{ "text": "Conscious choice  ", "type": "ENVIRONMENT" }],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDc1MTQ3MV9ncm91cF8wODdfZW5fdXM7MDc1MTQ3MTA4N19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "F5F5DC",
+            "text": "Beige",
+            "filterName": "Beige_F5F5DC",
+            "hybrisCode": "13"
+          },
+          "rgbColor": "#938976",
+          "genArticle": "751471087226",
+          "environmentalMarkers": ["Conscious choice  "]
+        }
+      ],
+      "markers": [{ "text": "Conscious choice  ", "type": "ENVIRONMENT" }],
+      "visible": false,
+      "concept": ["EVERYDAY FASHION"],
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "0751471087",
+        "name": "Slacks",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/18/eb/18eb64b2796016ba869ebbdd5c2a752bca269e1b.jpg],origin[dam],category[ladies_trousers_chinosslacks],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9383943176193",
+        "sellingAttributes": ["New Arrival"],
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 19.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 19.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/b1/33/b13343998e118ed04da0f7d092d6de56c3c886d4.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/b1/33/b13343998e118ed04da0f7d092d6de56c3c886d4.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "markers": [{ "text": "Conscious choice  ", "type": "ENVIRONMENT" }],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDc1MTQ3MV9ncm91cF8wODdfZW5fdXM7MDc1MTQ3MTA4N19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "F5F5DC",
+          "text": "Beige",
+          "filterName": "Beige_F5F5DC",
+          "hybrisCode": "13"
+        },
+        "rgbColor": "#938976",
+        "genArticle": "751471087226",
+        "environmentalMarkers": ["Conscious choice  "]
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 8, "filterCode": "4" },
+        { "orderFilter": 14, "filterCode": "10" },
+        { "orderFilter": 6, "filterCode": "2" },
+        { "orderFilter": 18, "filterCode": "14" },
+        { "orderFilter": 16, "filterCode": "12" },
+        { "orderFilter": 20, "filterCode": "16" },
+        { "orderFilter": 4, "filterCode": "0" },
+        { "orderFilter": 12, "filterCode": "8" },
+        { "orderFilter": 54, "filterCode": "20" },
+        { "orderFilter": 10, "filterCode": "6" }
+      ],
+      "swatches": [],
+      "articleCodes": ["0751471087", "0751471042"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDc1MTQ3MV9ncm91cF8wODdfZW5fdXM7MDc1MTQ3MTA4N19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+      "searchEngineProductId": "0751471_group_087_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.0751471087.html",
+      "categoryName": "Ladies",
+      "rgbColors": ["#938976", "#2B2D34"],
+      "articleColorNames": ["Beige", "Navy blue"],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "ladies_trousers_chinosslacks",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "0984902_group_001",
+      "name": "Hooded Jacket",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "USD",
+        "value": 19.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 19.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/5d/ea/5dead96c1a8da3878898a58f9b41941fa423a7c4.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9334517170177",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 19.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 19.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "0984902001",
+          "name": "Hooded Jacket",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/5d/ea/5dead96c1a8da3878898a58f9b41941fa423a7c4.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9318004621313",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 19.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 19.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/a7/79/a77932d214ccb8d6ba4691cd7b6b68031fa5eb1d.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/a7/79/a77932d214ccb8d6ba4691cd7b6b68031fa5eb1d.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDk4NDkwMl9ncm91cF8wMDFfZW5fdXM7MDk4NDkwMjAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "000000",
+            "text": "Black",
+            "filterName": "Black_000000",
+            "hybrisCode": "09"
+          },
+          "rgbColor": "#272628",
+          "genArticle": "984902001237"
+        }
+      ],
+      "visible": false,
+      "concept": ["BASICS,EVERYDAY FASHION"],
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "0984902001",
+        "name": "Hooded Jacket",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/5d/ea/5dead96c1a8da3878898a58f9b41941fa423a7c4.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9318004621313",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 19.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 19.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/a7/79/a77932d214ccb8d6ba4691cd7b6b68031fa5eb1d.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/a7/79/a77932d214ccb8d6ba4691cd7b6b68031fa5eb1d.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDk4NDkwMl9ncm91cF8wMDFfZW5fdXM7MDk4NDkwMjAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "000000",
+          "text": "Black",
+          "filterName": "Black_000000",
+          "hybrisCode": "09"
+        },
+        "rgbColor": "#272628",
+        "genArticle": "984902001237"
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 372, "filterCode": "XL" },
+        { "orderFilter": 363, "filterCode": "XS" },
+        { "orderFilter": 366, "filterCode": "S" },
+        { "orderFilter": 370, "filterCode": "L" },
+        { "orderFilter": 375, "filterCode": "XXL" },
+        { "orderFilter": 369, "filterCode": "M" }
+      ],
+      "swatches": [],
+      "articleCodes": ["0984902001", "0984902002", "0984902008"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDk4NDkwMl9ncm91cF8wMDFfZW5fdXM7MDk4NDkwMjAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+      "searchEngineProductId": "0984902_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.0984902001.html",
+      "categoryName": "Ladies",
+      "rgbColors": ["#272628", "#ECE7E1", "#BCBDBE"],
+      "articleColorNames": ["Black", "White", "Light gray melange"],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 3,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "ladies_basics_tops_longsleeve",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "0963087_group_001",
+      "name": "Wide-leg Twill Pants",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "USD",
+        "value": 17.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 17.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/29/30/2930d00b0f58e8eb8d90bab290b31774ea9202ee.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9300040024065",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 17.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 17.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "0963087001",
+          "name": "Wide-leg Twill Pants",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/29/30/2930d00b0f58e8eb8d90bab290b31774ea9202ee.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9275751464961",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 17.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 17.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/d0/f4/d0f4c8b12f4d41112f6c35a638607edc94f47d06.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[2]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/d0/f4/d0f4c8b12f4d41112f6c35a638607edc94f47d06.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[2]&call=url[file:/product/main]"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDk2MzA4N19ncm91cF8wMDFfZW5fdXM7MDk2MzA4NzAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "000000",
+            "text": "Black",
+            "filterName": "Black_000000",
+            "hybrisCode": "09"
+          },
+          "rgbColor": "#272628",
+          "genArticle": "963087001226"
+        }
+      ],
+      "visible": false,
+      "concept": ["DIVIDED"],
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "0963087001",
+        "name": "Wide-leg Twill Pants",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/29/30/2930d00b0f58e8eb8d90bab290b31774ea9202ee.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9275751464961",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 17.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 17.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/d0/f4/d0f4c8b12f4d41112f6c35a638607edc94f47d06.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[2]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/d0/f4/d0f4c8b12f4d41112f6c35a638607edc94f47d06.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[2]&call=url[file:/product/main]"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDk2MzA4N19ncm91cF8wMDFfZW5fdXM7MDk2MzA4NzAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "000000",
+          "text": "Black",
+          "filterName": "Black_000000",
+          "hybrisCode": "09"
+        },
+        "rgbColor": "#272628",
+        "genArticle": "963087001226"
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 12, "filterCode": "8" },
+        { "orderFilter": 6, "filterCode": "2" },
+        { "orderFilter": 4, "filterCode": "0" },
+        { "orderFilter": 10, "filterCode": "6" },
+        { "orderFilter": 8, "filterCode": "4" },
+        { "orderFilter": 14, "filterCode": "10" }
+      ],
+      "swatches": [],
+      "articleCodes": ["0963087001", "0963087038"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDk2MzA4N19ncm91cF8wMDFfZW5fdXM7MDk2MzA4NzAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+      "searchEngineProductId": "0963087_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.0963087001.html",
+      "categoryName": "Ladies",
+      "rgbColors": ["#272628", "#303144"],
+      "articleColorNames": ["Black", "Dark blue"],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "ladies_trousers_highwaisted",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "0963087_group_016",
+      "name": "Wide-leg Twill Pants",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "USD",
+        "value": 17.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 17.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/46/22/4622110baf3403932f5c22997d9729559a5e8ff2.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9345547599873",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 17.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 17.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "0963087016",
+          "name": "Wide-leg Twill Pants",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/46/22/4622110baf3403932f5c22997d9729559a5e8ff2.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9345371570177",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 17.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 17.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/d7/0e/d70e0e0f5ccca3671934221bca489fa0156bca4e.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/d7/0e/d70e0e0f5ccca3671934221bca489fa0156bca4e.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDk2MzA4N19ncm91cF8wMTZfZW5fdXM7MDk2MzA4NzAxNl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "A52A2A",
+            "text": "Dark brown",
+            "filterName": "Brown_A52A2A",
+            "hybrisCode": "17"
+          },
+          "rgbColor": "#544542",
+          "genArticle": "963087016225"
+        }
+      ],
+      "visible": false,
+      "concept": ["DIVIDED"],
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "0963087016",
+        "name": "Wide-leg Twill Pants",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/46/22/4622110baf3403932f5c22997d9729559a5e8ff2.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9345371570177",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 17.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 17.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/d7/0e/d70e0e0f5ccca3671934221bca489fa0156bca4e.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/d7/0e/d70e0e0f5ccca3671934221bca489fa0156bca4e.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDk2MzA4N19ncm91cF8wMTZfZW5fdXM7MDk2MzA4NzAxNl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "A52A2A",
+          "text": "Dark brown",
+          "filterName": "Brown_A52A2A",
+          "hybrisCode": "17"
+        },
+        "rgbColor": "#544542",
+        "genArticle": "963087016225"
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 14, "filterCode": "10" },
+        { "orderFilter": 4, "filterCode": "0" },
+        { "orderFilter": 8, "filterCode": "4" },
+        { "orderFilter": 20, "filterCode": "16" },
+        { "orderFilter": 18, "filterCode": "14" },
+        { "orderFilter": 22, "filterCode": "18" },
+        { "orderFilter": 16, "filterCode": "12" },
+        { "orderFilter": 6, "filterCode": "2" },
+        { "orderFilter": 12, "filterCode": "8" },
+        { "orderFilter": 10, "filterCode": "6" }
+      ],
+      "swatches": [],
+      "articleCodes": ["0963087001", "0963087038"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDk2MzA4N19ncm91cF8wMTZfZW5fdXM7MDk2MzA4NzAxNl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+      "searchEngineProductId": "0963087_group_016_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.0963087016.html",
+      "categoryName": "Ladies",
+      "rgbColors": ["#272628", "#303144"],
+      "articleColorNames": ["Black", "Dark blue"],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "ladies_trousers_highwaisted",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "1073532_group_001",
+      "name": "Bucket Hat with Earflaps",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "USD",
+        "value": 12.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 12.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/9e/65/9e65cd67e4141c38e3eb72f63fdb624e1fa458df.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9426525061121",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 12.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 12.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1073532001",
+          "name": "Bucket Hat with Earflaps",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/9e/65/9e65cd67e4141c38e3eb72f63fdb624e1fa458df.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9399908040705",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 12.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 12.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/9e/65/9e65cd67e4141c38e3eb72f63fdb624e1fa458df.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/9e/65/9e65cd67e4141c38e3eb72f63fdb624e1fa458df.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA3MzUzMl9ncm91cF8wMDFfZW5fdXM7MTA3MzUzMjAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "008000",
+            "text": "Beige",
+            "filterName": "Beige_F5F5DC",
+            "hybrisCode": "19"
+          },
+          "rgbColor": "#7D7965"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1073532001",
+        "name": "Bucket Hat with Earflaps",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/9e/65/9e65cd67e4141c38e3eb72f63fdb624e1fa458df.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9399908040705",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 12.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 12.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/9e/65/9e65cd67e4141c38e3eb72f63fdb624e1fa458df.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/9e/65/9e65cd67e4141c38e3eb72f63fdb624e1fa458df.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA3MzUzMl9ncm91cF8wMDFfZW5fdXM7MTA3MzUzMjAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "008000",
+          "text": "Beige",
+          "filterName": "Beige_F5F5DC",
+          "hybrisCode": "19"
+        },
+        "rgbColor": "#7D7965"
+      },
+      "sale": false,
+      "variantSizes": [
+        { "orderFilter": 3184, "filterCode": "3-6M (2-6M)" },
+        { "orderFilter": 3185, "filterCode": "9-12M (6-12M)" },
+        { "orderFilter": 3186, "filterCode": "18M/2T (1-2Y)" }
+      ],
+      "swatches": [],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA3MzUzMl9ncm91cF8wMDFfZW5fdXM7MTA3MzUzMjAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+      "searchEngineProductId": "1073532_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1073532001.html",
+      "categoryName": "Kids",
+      "ecoTaxValue": 0,
+      "swatchesTotal": 0,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "kids_baby_boy_accessories_hats",
+      "comingSoon": false,
+      "brandName": "H&M"
+    },
+    {
+      "code": "0975596_group_002",
+      "name": "Crop Top",
+      "stock": { "stockLevel": 1 },
+      "price": {
+        "currencyIso": "USD",
+        "value": 5.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 5.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/34/e6/34e6509df17250fba054834fea807410797d2864.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+        }
+      ],
+      "categories": [],
+      "pk": "9329304109057",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 5.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 5.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "0975596002",
+          "name": "Crop Top",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/34/e6/34e6509df17250fba054834fea807410797d2864.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+            }
+          ],
+          "pk": "9311581896705",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 5.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 5.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/9b/06/9b06a05b3e520e6faf7b23b0860c650fde2657c4.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/9b/06/9b06a05b3e520e6faf7b23b0860c650fde2657c4.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+            }
+          ],
+          "markers": [{ "text": "Conscious choice  ", "type": "ENVIRONMENT" }],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDk3NTU5Nl9ncm91cF8wMDJfZW5fdXM7MDk3NTU5NjAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "FFFFFF",
+            "text": "White",
+            "filterName": "White_FFFFFF",
+            "hybrisCode": "10"
+          },
+          "rgbColor": "#ECEDEC",
+          "genArticle": "975596002226",
+          "environmentalMarkers": ["Conscious choice  "]
+        }
+      ],
+      "markers": [{ "text": "Conscious choice  ", "type": "ENVIRONMENT" }],
+      "visible": false,
+      "concept": ["BASICS,DIVIDED"],
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "0975596002",
+        "name": "Crop Top",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/34/e6/34e6509df17250fba054834fea807410797d2864.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]"
+          }
+        ],
+        "pk": "9311581896705",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 5.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 5.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/9b/06/9b06a05b3e520e6faf7b23b0860c650fde2657c4.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/9b/06/9b06a05b3e520e6faf7b23b0860c650fde2657c4.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]"
+          }
+        ],
+        "markers": [{ "text": "Conscious choice  ", "type": "ENVIRONMENT" }],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDk3NTU5Nl9ncm91cF8wMDJfZW5fdXM7MDk3NTU5NjAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "FFFFFF",
+          "text": "White",
+          "filterName": "White_FFFFFF",
+          "hybrisCode": "10"
+        },
+        "rgbColor": "#ECEDEC",
+        "genArticle": "975596002226",
+        "environmentalMarkers": ["Conscious choice  "]
+      },
+      "sale": false,
+      "variantSizes": [{ "orderFilter": 363, "filterCode": "XS" }],
+      "swatches": [],
+      "articleCodes": ["0975596002", "0975596001", "0975596034"],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDk3NTU5Nl9ncm91cF8wMDJfZW5fdXM7MDk3NTU5NjAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTswOw",
+      "searchEngineProductId": "0975596_group_002_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.0975596002.html",
+      "categoryName": "Ladies",
+      "rgbColors": ["#ECEDEC", "#272628", "#B9B8D5"],
+      "articleColorNames": ["White", "Black", "Light purple"],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 3,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "ladies_basics_tops_shortsleeve",
+      "comingSoon": false,
+      "brandName": "H&M"
+    }
+  ]
+]
