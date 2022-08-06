@@ -13,6 +13,7 @@ import { stateReducer, initialState } from "./reducer/stateReducer";
 import { useReducer } from "react";
 import { SnackbarProvider } from "notistack";
 import { SearchResult } from "./components/SearchResult";
+import { NoMatch } from "./components/NoMatch";
 
 function App() {
   const [state, dispatch] = useReducer(stateReducer, initialState);
@@ -33,8 +34,7 @@ function App() {
             <Route path="/kids" element={<Kids />} />
             <Route path="/baby" element={<Baby />} />
             <Route path="/shoppingBag" element={<ShoppingBag />} />
-
-            {/* <Route path="*" element={<NoMatch />} /> */}
+            <Route path="*" element={<NoMatch />} />
           </Routes>
         </BrowserRouter>
       </SnackbarProvider>

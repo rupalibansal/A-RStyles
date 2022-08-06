@@ -8,10 +8,10 @@ import { useEffect, useState, useContext } from "react";
 import { useParams, useLocation } from "react-router";
 import Typography from "@mui/material/Typography";
 import { StateContext } from "../context/StateContext";
-import { Spinner } from "./Spinner";
 import React from "react";
 import { API_KEY } from "../common/apiKey";
 import { useSnackbar } from "notistack";
+import Skeleton from "@mui/material/Skeleton";
 
 const axios = require("axios").default;
 
@@ -145,17 +145,17 @@ function ProductDetail() {
           </Grid>
         </Grid>
       ) : (
-        <Grid
-          container
-          justifyContent="space-around"
-          alignItems="center"
-          spacing={0}
-        >
-          <Grid item xs={12}>
-            <Item>
-              <Spinner />
-            </Item>
-          </Grid>
+        <Grid item xs={12}>
+          <Item>
+            <Stack spacing={20} direction={"row"}>
+              <Skeleton variant="rectangular" width={350} height={220} />
+              <Stack>
+                <Skeleton variant="text" width={350} height={20} />
+                <Skeleton variant="text" width={350} height={20} />
+                <Skeleton variant="text" width={350} height={20} />
+              </Stack>
+            </Stack>
+          </Item>
         </Grid>
       )}
     </Grid>

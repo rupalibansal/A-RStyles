@@ -33,13 +33,13 @@ function Categorybar(props) {
   };
 
   return (
-    <Grid container spacing={0}>
-      <Grid item xs={8}>
+    <Grid container spacing={4}>
+      <Grid item xs={12} md={8}>
         <Stack
           direction="row"
           justifyContent="space-around"
           alignItems="center"
-          spacing={2}
+          spacing={1}
         >
           <Button component={Link} to="/all-products" variant="text">
             All Products
@@ -58,9 +58,8 @@ function Categorybar(props) {
           </Button>
         </Stack>
       </Grid>
-      <Grid item xs={1}></Grid>
       {showSort ? (
-        <Grid item xs={2}>
+        <Grid item xs={5} md={2}>
           <FormControl fullWidth>
             <InputLabel id="sort-by-price-label">Sort By Price</InputLabel>
             <Select

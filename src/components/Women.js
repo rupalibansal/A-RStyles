@@ -4,8 +4,8 @@ import { Item } from "../common/Item";
 import { Categorybar } from "./Categorybar";
 import { useEffect, useState } from "react";
 import { DisplayProducts } from "./DisplayProducts";
-import { Spinner } from "./Spinner";
 import { API_KEY } from "../common/apiKey";
+import { LoadingSkeleton } from "./LoadingSkeleton";
 
 const axios = require("axios").default;
 
@@ -61,18 +61,7 @@ function Women() {
           </Item>
         </Grid>
       ) : (
-        <Grid
-          container
-          justifyContent="space-around"
-          alignItems="center"
-          spacing={0}
-        >
-          <Grid item xs={12}>
-            <Item>
-              <Spinner />
-            </Item>
-          </Grid>
-        </Grid>
+        <LoadingSkeleton />
       )}
     </Grid>
   );

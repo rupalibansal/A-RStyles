@@ -70,6 +70,22 @@ export function stateReducer(state, action) {
         };
       }
 
+    case "removeProductFromBag":
+      // remove object whose code matches with the item code
+      let itemToBeDeletedQuantity;
+      const updateItemsInBag = state.itemsInBag.filter((item) => {
+        if (item.code === action.productDetail.code) {
+          itemToBeDeletedQuantity = item.quantity;
+          console.log(itemToBeDeletedQuantity);
+        }
+        return item.code !== action.productDetail.code;
+      });
+      return {
+        itemsInBag: [...updateItemsInBag],
+        numberOfBagItems: state.numberOfBagItems - itemToBeDeletedQuantity,
+        productsSortOrder: state.productsSortOrder,
+      };
+
     case "sortProducts":
       return {
         itemsInBag: state.itemsInBag,

@@ -11,7 +11,6 @@ function DisplayProducts(props) {
   const [sortOrder, setSortOrder] = useState("");
 
   useEffect(() => {
-   
     setProductsToDisplay(props.data);
   }, [props.data]);
 
@@ -31,22 +30,18 @@ function DisplayProducts(props) {
     }
   }, [sortOrder]);
 
-  
-
   return (
     <Grid container spacing={0}>
-
       {productsToDisplay.map((product, k) => {
         const dataToDisplay = {
           name: product.name,
-          price: product.price.value,
+          price: product.whitePrice.value,
           image: product.images[0].url,
         };
         return (
-          <Grid item xs={4}>
+          <Grid key={k} item xs={4}>
             <Link
               to={`/product/${product.articles[0].code}?imageUrl=${dataToDisplay.image}`}
-              key={k}
             >
               <Item>
                 <Product productData={dataToDisplay} />

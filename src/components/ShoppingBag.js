@@ -2,17 +2,12 @@ import ButtonGroup from "@mui/material/ButtonGroup";
 import Button from "@mui/material/Button";
 import AddIcon from "@mui/icons-material/Add";
 import RemoveIcon from "@mui/icons-material/Remove";
+import IconButton from "@mui/material/IconButton";
+import DeleteIcon from "@mui/icons-material/Delete";
 import { Navbar } from "./Navbar";
 import { Categorybar } from "./Categorybar";
 import { Item } from "../common/Item";
-import {
-  List,
-  ListItem,
-  ListItemText,
-  Grid,
-  Stack,
-  Typography,
-} from "@mui/material";
+import { Grid, Stack, Typography } from "@mui/material";
 import { useState, useEffect, useContext } from "react";
 import { StateContext } from "../context/StateContext";
 import Table from "@mui/material/Table";
@@ -65,77 +60,96 @@ function ShoppingBag() {
           </Item>
         </Grid>
       </Grid>
-      <Stack direction="row">
-        <Grid container xs={6} spacing={0} sx={gridStyles}>
-          <Typography> Items panel</Typography>
-          <TableContainer component={Paper}>
-            <Table aria-label="simple table">
-              <TableHead>
-                <TableRow>
-                  <TableCell>Product</TableCell>
-                  <TableCell align="right">Quantity</TableCell>
-                  <TableCell align="right">Price for each</TableCell>
-                  <TableCell align="right">Total Price</TableCell>
-                </TableRow>
-              </TableHead>
-              <TableBody>
-                {rows.map((row) => (
-                  <TableRow
-                    key={row.name}
-                    sx={{ "&:last-child td, &:last-child th": { border: 0 } }}
-                  >
-                    <TableCell component="th" scope="row">
-                      {row.name}
-                    </TableCell>
-                    <TableCell align="right">
-                      <ButtonGroup>
-                        <Button
-                          aria-label="reduce"
-                          disabled={row.quantity === 1}
-                          onClick={() => {
-                            dispatch({
-                              type: "removeFromBag",
-                              productDetail: { code: row.code },
-                            });
-                          }}
-                        >
-                          <RemoveIcon fontSize="small" />
-                        </Button>
-                        <Typography sx={quantityStyles}>
-                          {row.quantity}
-                        </Typography>
-                        <Button
-                          aria-label="increase"
-                          onClick={() => {
-                            dispatch({
-                              type: "addToBag",
-                              productDetail: { code: row.code },
-                            });
-                          }}
-                        >
-                          <AddIcon fontSize="small" />
-                        </Button>
-                      </ButtonGroup>
-                    </TableCell>
-                    <TableCell align="right">{row.price}</TableCell>
-                    <TableCell align="right">
-                      {(row.quantity * row.price).toFixed(2)}
-                    </TableCell>
+      {rows.length == 0 ? (
+        <Grid container spacing={0}>
+          <Grid item xs={12}>
+            <Item>
+              <Typography variant="h5">No items in cart</Typography>
+            </Item>
+          </Grid>
+        </Grid>
+      ) : (
+        <Stack direction="row">
+          <Grid container xs={6} spacing={0} sx={gridStyles}>
+            <TableContainer component={Paper}>
+              <Table aria-label="simple table">
+                <TableHead>
+                  <TableRow>
+                    <TableCell>Product</TableCell>
+                    <TableCell align="right">Quantity</TableCell>
+                    <TableCell align="right">Price for each</TableCell>
+                    <TableCell align="right">OrderTotal</TableCell>
                   </TableRow>
-                ))}
-              </TableBody>
-            </Table>
-          </TableContainer>
-        </Grid>
-        <Grid container xs={4} spacing={0} sx={gridStyles}>
-          <Typography variant="h4" component="div">
-            {`Total Due today:`}
-          </Typography>
-          <Typography variant="h5" component="div">
-            {orderTotal}
-          </Typography>
-        </Grid>
-      </Stack>
+                </TableHead>
+                <TableBody>
+                  {rows.map((row) => (
+                    <TableRow
+                      key={row.name}
+                      sx={{ "&:last-child td, &:last-child th": { border: 0 } }}
+                    >
+                      <TableCell component="th" scope="row">
+                        {row.name}
+                      </TableCell>
+                      <TableCell align="right">
+                        <ButtonGroup>
+                          <Button
+                            variant="contained"
+                            aria-label="reduce"
+                            disabled={row.quantity === 1}
+                            onClick={() => {
+                              dispatch({
+                                type: "removeFromBag",
+                                productDetail: { code: row.code },
+                              });
+                            }}
+                          >
+                            <RemoveIcon fontSize="small" />
+                          </Button>
+                          <Typography sx={quantityStyles}>
+                            {row.quantity}
+                          </Typography>
+                          <Button
+                            variant="contained"
+                            aria-label="increase"
+                            onClick={() => {
+                              dispatch({
+                                type: "addToBag",
+                                productDetail: { code: row.code },
+                              });
+                            }}
+                          >
+                            <AddIcon fontSize="small" />
+                          </Button>
+                          <IconButton
+                            aria-label="delete"
+                            onClick={() => {
+                              dispatch({
+                                type: "removeProductFromBag",
+                                productDetail: { code: row.code },
+                              });
+                            }}
+                          >
+                            <DeleteIcon />
+                          </IconButton>
+                        </ButtonGroup>
+                      </TableCell>
+                      <TableCell align="right">{row.price}</TableCell>
+                      <TableCell align="right">
+                        {(row.quantity * row.price).toFixed(2)}
+                      </TableCell>
+                    </TableRow>
+                  ))}
+                </TableBody>
+              </Table>
+            </TableContainer>
+          </Grid>
+          <Grid container xs={4} spacing={0} sx={gridStyles}>
+            <Typography variant="h4" component="div">
+              {`Total Due today: ${orderTotal}`}
+            </Typography>
+          </Grid>
+        </Stack>
+      )}
     </>
   );
 }

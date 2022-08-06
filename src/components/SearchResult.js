@@ -5,9 +5,9 @@ import { Item } from "../common/Item";
 import { useEffect, useState } from "react";
 import { DisplayProducts } from "./DisplayProducts";
 import { RapidAPIClient } from "../http/httpClient";
-import Skeleton from "@mui/material/Skeleton";
-import Stack from "@mui/material/Stack";
 import { useParams } from "react-router";
+import { LoadingSkeleton } from "./LoadingSkeleton";
+import Typography from "@mui/material/Typography";
 
 function SearchResult() {
   const urlParams = useParams();
@@ -38,6 +38,26 @@ function SearchResult() {
     });
   }, [urlParams.searchTerm]);
 
+  if (!searchResults) {
+    return (
+      <>
+        <Grid container spacing={0}>
+          <Grid item xs={12}>
+            <Item>
+              <Navbar />
+            </Item>
+          </Grid>
+          <Grid item xs={12}>
+            <Item>
+              <Categorybar />
+            </Item>
+          </Grid>
+        </Grid>
+        <LoadingSkeleton />
+      </>
+    );
+  }
+
   return (
     <Grid container spacing={0}>
       <Grid item xs={12}>
@@ -50,33 +70,20 @@ function SearchResult() {
           <Categorybar />
         </Item>
       </Grid>
-      {searchResults ? (
+      {searchResults.length > 0 ? (
         <Grid item xs={12}>
           <Item>
             <DisplayProducts data={searchResults} />
           </Item>
         </Grid>
       ) : (
-        <Grid
-          container
-          justifyContent="space-around"
-          alignItems="center"
-          spacing={0}
-        >
+        <Grid container spacing={0}>
           <Grid item xs={12}>
             <Item>
-              <Stack spacing={25} direction={"row"}>
-                <Skeleton variant="rectangular" width={350} height={220} />
-                <Skeleton variant="rectangular" width={350} height={220} />
-                <Skeleton variant="rectangular" width={350} height={220} />
-              </Stack>
-            </Item>
-            <Item>
-              <Stack spacing={25} direction={"row"}>
-                <Skeleton variant="rectangular" width={350} height={220} />
-                <Skeleton variant="rectangular" width={350} height={220} />
-                <Skeleton variant="rectangular" width={350} height={220} />
-              </Stack>
+              <Typography variant="h6">NO MATCHING ITEMS</Typography>
+              <Typography variant="body1">
+                Your search "{urlParams.searchTerm}" did not match any results
+              </Typography>
             </Item>
           </Grid>
         </Grid>

@@ -5,8 +5,7 @@ import { Categorybar } from "./Categorybar";
 import { useEffect, useState } from "react";
 import { DisplayProducts } from "./DisplayProducts";
 import { getAllProducts } from "../http/httpClient";
-import Skeleton from "@mui/material/Skeleton";
-import Stack from "@mui/material/Stack";
+import { LoadingSkeleton } from "./LoadingSkeleton";
 
 function AllProducts() {
   const [allProducts, setAllProducts] = useState(null);
@@ -40,29 +39,7 @@ function AllProducts() {
           </Item>
         </Grid>
       ) : (
-        <Grid
-          container
-          justifyContent="space-around"
-          alignItems="center"
-          spacing={0}
-        >
-          <Grid item xs={12}>
-            <Item>
-              <Stack spacing={25} direction={"row"}>
-                <Skeleton variant="rectangular" width={350} height={220} />
-                <Skeleton variant="rectangular" width={350} height={220} />
-                <Skeleton variant="rectangular" width={350} height={220} />
-              </Stack>
-            </Item>
-            <Item>
-              <Stack spacing={25} direction={"row"}>
-                <Skeleton variant="rectangular" width={350} height={220} />
-                <Skeleton variant="rectangular" width={350} height={220} />
-                <Skeleton variant="rectangular" width={350} height={220} />
-              </Stack>
-            </Item>
-          </Grid>
-        </Grid>
+        <LoadingSkeleton />
       )}
     </Grid>
   );
