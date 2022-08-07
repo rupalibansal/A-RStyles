@@ -23,8 +23,8 @@ function DisplayProducts(props) {
       setProductsToDisplay([
         ...productsToDisplay.sort((a, b) => {
           return sortOrder === "asc"
-            ? a.price.value - b.price.value
-            : b.price.value - a.price.value;
+            ? a.whitePrice.value - b.whitePrice.value
+            : b.whitePrice.value - a.whitePrice.value;
         }),
       ]);
     }
@@ -39,7 +39,7 @@ function DisplayProducts(props) {
           image: product.images[0].url,
         };
         return (
-          <Grid key={k} item xs={4}>
+          <Grid key={k} item xs={6} md={4} lg={4}>
             <Link
               to={`/product/${product.articles[0].code}?imageUrl=${dataToDisplay.image}`}
             >

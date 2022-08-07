@@ -70,7 +70,7 @@ function ShoppingBag() {
         </Grid>
       ) : (
         <Stack direction="row">
-          <Grid container xs={6} spacing={0} sx={gridStyles}>
+          <Grid container xs={4} md={6} spacing={0} sx={gridStyles}>
             <TableContainer component={Paper}>
               <Table aria-label="simple table">
                 <TableHead>
@@ -143,10 +143,15 @@ function ShoppingBag() {
               </Table>
             </TableContainer>
           </Grid>
-          <Grid container xs={4} spacing={0} sx={gridStyles}>
-            <Typography variant="h4" component="div">
-              {`Total Due today: ${orderTotal}`}
-            </Typography>
+          <Grid container xs={2} md={4} spacing={0} sx={gridStyles}>
+            <Stack spacing={3}>
+              <Typography variant="h4" component="div">
+                {`Total Due today: ${orderTotal.toFixed(2)}`}
+              </Typography>
+              <Button disabled variant="contained" color="success">
+                Checkout
+              </Button>
+            </Stack>
           </Grid>
         </Stack>
       )}
