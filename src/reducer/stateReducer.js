@@ -76,7 +76,6 @@ export function stateReducer(state, action) {
       const updateItemsInBag = state.itemsInBag.filter((item) => {
         if (item.code === action.productDetail.code) {
           itemToBeDeletedQuantity = item.quantity;
-          console.log(itemToBeDeletedQuantity);
         }
         return item.code !== action.productDetail.code;
       });

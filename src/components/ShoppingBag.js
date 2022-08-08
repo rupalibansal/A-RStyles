@@ -146,7 +146,7 @@ function ShoppingBag() {
           <Grid container xs={2} md={4} spacing={0} sx={gridStyles}>
             <Stack spacing={3}>
               <Typography variant="h4" component="div">
-                {`Total Due today: ${orderTotal.toFixed(2)}`}
+                {`Total Due today: $${orderTotal.toFixed(2)}`}
               </Typography>
               <Button disabled variant="contained" color="success">
                 Checkout

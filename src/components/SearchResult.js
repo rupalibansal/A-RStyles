@@ -82,7 +82,7 @@ function SearchResult() {
             <Item>
               <Typography variant="h6">NO MATCHING ITEMS</Typography>
               <Typography variant="body1">
-                Your search "{urlParams.searchTerm}" did not match any results
+                {`Your search ${urlParams.searchTerm} did not match any results`}
               </Typography>
             </Item>
           </Grid>
